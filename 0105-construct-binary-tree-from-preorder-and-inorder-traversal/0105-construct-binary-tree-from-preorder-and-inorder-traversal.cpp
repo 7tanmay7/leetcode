@@ -28,3 +28,32 @@ public:
         return buildSubTree(preorder, inorder, 0, inorder.size() - 1, preIndex);
     }
 };
+// optimised approach (using maps)
+// class Solution {
+// public:
+//     unordered_map<int, int> inMap;
+
+//     TreeNode* buildSubTree(vector<int>& preorder, int inStart, int inEnd, int& preIndex) {
+//         if (inStart > inEnd)
+//             return nullptr;
+
+//         int rootVal = preorder[preIndex++];
+//         TreeNode* root = new TreeNode(rootVal);
+//         int pos = inMap[rootVal];
+
+//         root->left = buildSubTree(preorder, inStart, pos - 1, preIndex);
+//         root->right = buildSubTree(preorder, pos + 1, inEnd, preIndex);
+
+//         return root;
+//     }
+
+//     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
+//         inMap.clear();
+//         for (int i = 0; i < inorder.size(); i++) {
+//             inMap[inorder[i]] = i;
+//         }
+
+//         int preIndex = 0;
+//         return buildSubTree(preorder, 0, inorder.size() - 1, preIndex);
+//     }
+// };
