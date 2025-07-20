@@ -10,11 +10,13 @@ contains solution all my leetcode questions
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/7tanmay7/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/7tanmay7/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/7tanmay7/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/7tanmay7/leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/7tanmay7/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/7tanmay7/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0268-missing-number](https://github.com/7tanmay7/leetcode/tree/master/0268-missing-number) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1904-second-largest-digit-in-a-string](https://github.com/7tanmay7/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
@@ -65,6 +67,7 @@ contains solution all my leetcode questions
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/7tanmay7/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/7tanmay7/leetcode/tree/master/0268-missing-number) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Linked List
 |  |
@@ -81,6 +84,7 @@ contains solution all my leetcode questions
 ## Binary Search Tree
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/7tanmay7/leetcode/tree/master/0268-missing-number) |
 | [0783-search-in-a-binary-search-tree](https://github.com/7tanmay7/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/7tanmay7/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Heap (Priority Queue)
@@ -99,4 +103,12 @@ contains solution all my leetcode questions
 |  |
 | ------- |
 | [1904-second-largest-digit-in-a-string](https://github.com/7tanmay7/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/7tanmay7/leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/7tanmay7/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
