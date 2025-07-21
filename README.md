@@ -8,6 +8,7 @@ contains solution all my leetcode questions
 | ------- |
 | [0001-two-sum](https://github.com/7tanmay7/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/7tanmay7/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/7tanmay7/leetcode/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/7tanmay7/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/7tanmay7/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0136-single-number](https://github.com/7tanmay7/leetcode/tree/master/0136-single-number) |
@@ -73,6 +74,7 @@ contains solution all my leetcode questions
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/7tanmay7/leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/7tanmay7/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/7tanmay7/leetcode/tree/master/0268-missing-number) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -106,6 +108,7 @@ contains solution all my leetcode questions
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/7tanmay7/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/7tanmay7/leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/7tanmay7/leetcode/tree/master/0283-move-zeroes) |
 ## String
 |  |
