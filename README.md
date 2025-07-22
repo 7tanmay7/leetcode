@@ -7,6 +7,7 @@ contains solution all my leetcode questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/7tanmay7/leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/7tanmay7/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/7tanmay7/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/7tanmay7/leetcode/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/7tanmay7/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -74,6 +75,7 @@ contains solution all my leetcode questions
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/7tanmay7/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/7tanmay7/leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/7tanmay7/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/7tanmay7/leetcode/tree/master/0268-missing-number) |
@@ -108,6 +110,7 @@ contains solution all my leetcode questions
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/7tanmay7/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/7tanmay7/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/7tanmay7/leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/7tanmay7/leetcode/tree/master/0283-move-zeroes) |
