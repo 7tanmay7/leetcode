@@ -82,6 +82,7 @@ contains solution all my leetcode questions
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/7tanmay7/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/7tanmay7/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Stack
 |  |
 | ------- |
