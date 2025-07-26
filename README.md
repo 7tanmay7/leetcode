@@ -94,6 +94,7 @@ contains solution all my leetcode questions
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/7tanmay7/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0402-remove-k-digits](https://github.com/7tanmay7/leetcode/tree/master/0402-remove-k-digits) |
 | [0937-online-stock-span](https://github.com/7tanmay7/leetcode/tree/master/0937-online-stock-span) |
 ## Dynamic Programming
 |  |
@@ -123,6 +124,7 @@ contains solution all my leetcode questions
 ## String
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/7tanmay7/leetcode/tree/master/0402-remove-k-digits) |
 | [1904-second-largest-digit-in-a-string](https://github.com/7tanmay7/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 ## Math
 |  |
@@ -157,9 +159,14 @@ contains solution all my leetcode questions
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/7tanmay7/leetcode/tree/master/0402-remove-k-digits) |
 | [0937-online-stock-span](https://github.com/7tanmay7/leetcode/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/7tanmay7/leetcode/tree/master/0937-online-stock-span) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/7tanmay7/leetcode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
