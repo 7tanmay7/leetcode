@@ -19,6 +19,7 @@ contains solution all my leetcode questions
 | [0283-move-zeroes](https://github.com/7tanmay7/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/7tanmay7/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/7tanmay7/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [2227-sum-of-subarray-ranges](https://github.com/7tanmay7/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +97,7 @@ contains solution all my leetcode questions
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/7tanmay7/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0402-remove-k-digits](https://github.com/7tanmay7/leetcode/tree/master/0402-remove-k-digits) |
 | [0937-online-stock-span](https://github.com/7tanmay7/leetcode/tree/master/0937-online-stock-span) |
+| [2227-sum-of-subarray-ranges](https://github.com/7tanmay7/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -161,6 +163,7 @@ contains solution all my leetcode questions
 | ------- |
 | [0402-remove-k-digits](https://github.com/7tanmay7/leetcode/tree/master/0402-remove-k-digits) |
 | [0937-online-stock-span](https://github.com/7tanmay7/leetcode/tree/master/0937-online-stock-span) |
+| [2227-sum-of-subarray-ranges](https://github.com/7tanmay7/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Data Stream
 |  |
 | ------- |
