@@ -9,6 +9,7 @@ contains solution all my leetcode questions
 | [0001-two-sum](https://github.com/7tanmay7/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/7tanmay7/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/7tanmay7/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/7tanmay7/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/7tanmay7/leetcode/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/7tanmay7/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/7tanmay7/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -96,6 +97,7 @@ contains solution all my leetcode questions
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/7tanmay7/leetcode/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/7tanmay7/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0402-remove-k-digits](https://github.com/7tanmay7/leetcode/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/7tanmay7/leetcode/tree/master/0735-asteroid-collision) |
@@ -105,6 +107,7 @@ contains solution all my leetcode questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/7tanmay7/leetcode/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/7tanmay7/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/7tanmay7/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 ## Binary Search Tree
@@ -126,6 +129,7 @@ contains solution all my leetcode questions
 | ------- |
 | [0015-3sum](https://github.com/7tanmay7/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/7tanmay7/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/7tanmay7/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/7tanmay7/leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/7tanmay7/leetcode/tree/master/0283-move-zeroes) |
 ## String
@@ -166,6 +170,7 @@ contains solution all my leetcode questions
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/7tanmay7/leetcode/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/7tanmay7/leetcode/tree/master/0402-remove-k-digits) |
 | [0937-online-stock-span](https://github.com/7tanmay7/leetcode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/7tanmay7/leetcode/tree/master/0943-sum-of-subarray-minimums) |
