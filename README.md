@@ -92,6 +92,7 @@ contains solution all my leetcode questions
 | [0215-kth-largest-element-in-an-array](https://github.com/7tanmay7/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/7tanmay7/leetcode/tree/master/0268-missing-number) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1970-sorting-the-sentence](https://github.com/7tanmay7/leetcode/tree/master/1970-sorting-the-sentence) |
 ## Linked List
 |  |
 | ------- |
@@ -142,6 +143,7 @@ contains solution all my leetcode questions
 | [0402-remove-k-digits](https://github.com/7tanmay7/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/7tanmay7/leetcode/tree/master/0409-longest-palindrome) |
 | [1904-second-largest-digit-in-a-string](https://github.com/7tanmay7/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
+| [1970-sorting-the-sentence](https://github.com/7tanmay7/leetcode/tree/master/1970-sorting-the-sentence) |
 ## Math
 |  |
 | ------- |
