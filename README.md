@@ -113,6 +113,7 @@ contains solution all my leetcode questions
 | ------- |
 | [0042-trapping-rain-water](https://github.com/7tanmay7/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/7tanmay7/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/7tanmay7/leetcode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/7tanmay7/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/7tanmay7/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/7tanmay7/leetcode/tree/master/1013-fibonacci-number) |
@@ -150,6 +151,7 @@ contains solution all my leetcode questions
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/7tanmay7/leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/7tanmay7/leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/7tanmay7/leetcode/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
@@ -206,5 +208,6 @@ contains solution all my leetcode questions
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/7tanmay7/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/7tanmay7/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
