@@ -12,6 +12,7 @@ contains solution all my leetcode questions
 | [0042-trapping-rain-water](https://github.com/7tanmay7/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/7tanmay7/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/7tanmay7/leetcode/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/7tanmay7/leetcode/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/7tanmay7/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/7tanmay7/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0136-single-number](https://github.com/7tanmay7/leetcode/tree/master/0136-single-number) |
@@ -102,6 +103,7 @@ contains solution all my leetcode questions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/7tanmay7/leetcode/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/7tanmay7/leetcode/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/7tanmay7/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0402-remove-k-digits](https://github.com/7tanmay7/leetcode/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/7tanmay7/leetcode/tree/master/0735-asteroid-collision) |
@@ -114,6 +116,7 @@ contains solution all my leetcode questions
 | [0042-trapping-rain-water](https://github.com/7tanmay7/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/7tanmay7/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/7tanmay7/leetcode/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/7tanmay7/leetcode/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/7tanmay7/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/7tanmay7/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/7tanmay7/leetcode/tree/master/1013-fibonacci-number) |
@@ -175,6 +178,7 @@ contains solution all my leetcode questions
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/7tanmay7/leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/7tanmay7/leetcode/tree/master/0200-number-of-islands) |
 ## Design
 |  |
@@ -184,6 +188,7 @@ contains solution all my leetcode questions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/7tanmay7/leetcode/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/7tanmay7/leetcode/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/7tanmay7/leetcode/tree/master/0402-remove-k-digits) |
 | [0937-online-stock-span](https://github.com/7tanmay7/leetcode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/7tanmay7/leetcode/tree/master/0943-sum-of-subarray-minimums) |
