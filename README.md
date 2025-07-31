@@ -7,6 +7,7 @@ contains solution all my leetcode questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/7tanmay7/leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/7tanmay7/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/7tanmay7/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/7tanmay7/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/7tanmay7/leetcode/tree/master/0042-trapping-rain-water) |
@@ -41,6 +42,7 @@ contains solution all my leetcode questions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/7tanmay7/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/7tanmay7/leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/7tanmay7/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/7tanmay7/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -124,6 +126,7 @@ contains solution all my leetcode questions
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/7tanmay7/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/7tanmay7/leetcode/tree/master/0268-missing-number) |
 | [0783-search-in-a-binary-search-tree](https://github.com/7tanmay7/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/7tanmay7/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
