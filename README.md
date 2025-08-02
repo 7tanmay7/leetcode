@@ -101,6 +101,7 @@ contains solution all my leetcode questions
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/7tanmay7/leetcode/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/7tanmay7/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/7tanmay7/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [1582-design-browser-history](https://github.com/7tanmay7/leetcode/tree/master/1582-design-browser-history) |
@@ -147,6 +148,7 @@ contains solution all my leetcode questions
 | [0015-3sum](https://github.com/7tanmay7/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/7tanmay7/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/7tanmay7/leetcode/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/7tanmay7/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/7tanmay7/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/7tanmay7/leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/7tanmay7/leetcode/tree/master/0283-move-zeroes) |
