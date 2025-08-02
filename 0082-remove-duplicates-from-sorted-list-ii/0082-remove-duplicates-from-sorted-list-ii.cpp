@@ -1,31 +1,27 @@
 class Solution {
 public:
     ListNode* deleteDuplicates(ListNode* head) {
-        // Dummy node before the head to handle edge cases
+        // Dummy node before head to handle edge case where head itself is duplicate
         ListNode* dummy = new ListNode(0);
         dummy->next = head;
 
-        ListNode* prev = dummy;      // Points to last node before duplicates
-        ListNode* current = head;    // Traverses the list
+        ListNode* temp = dummy;
 
-        while (current != nullptr) {
-            // Check if current node is a start of duplicates
-            if (current->next != nullptr && current->val == current->next->val) {
-                // Skip all nodes with the same value
-                while (current->next != nullptr && current->val == current->next->val) {
-                    current = current->next;
+        while (temp->next != nullptr && temp->next->next != nullptr) {
+            // If next two nodes have same value — duplicate found
+            if (temp->next->val == temp->next->next->val) {
+                int dupVal = temp->next->val;
+                // Skip all nodes with that value
+                while (temp->next != nullptr && temp->next->val == dupVal) {
+                    temp->next = temp->next->next;
                 }
-                // Remove all duplicates
-                prev->next = current->next;
             } else {
-                // No duplicate — move prev
-                prev = prev->next;
+                // No duplicate, move ahead
+                temp = temp->next;
             }
-            current = current->next;
         }
 
         return dummy->next;
     }
 };
-
 
