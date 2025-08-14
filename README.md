@@ -193,6 +193,7 @@ contains solution all my leetcode questions
 | [0002-add-two-numbers](https://github.com/7tanmay7/leetcode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/7tanmay7/leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/7tanmay7/leetcode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/7tanmay7/leetcode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/7tanmay7/leetcode/tree/master/1013-fibonacci-number) |
 | [1048-clumsy-factorial](https://github.com/7tanmay7/leetcode/tree/master/1048-clumsy-factorial) |
 ## Bit Manipulation
@@ -260,6 +261,7 @@ contains solution all my leetcode questions
 | [0203-remove-linked-list-elements](https://github.com/7tanmay7/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/7tanmay7/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/7tanmay7/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/7tanmay7/leetcode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/7tanmay7/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
