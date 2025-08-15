@@ -194,6 +194,7 @@ contains solution all my leetcode questions
 | [0070-climbing-stairs](https://github.com/7tanmay7/leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/7tanmay7/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/7tanmay7/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/7tanmay7/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/7tanmay7/leetcode/tree/master/1013-fibonacci-number) |
 | [1048-clumsy-factorial](https://github.com/7tanmay7/leetcode/tree/master/1048-clumsy-factorial) |
 ## Bit Manipulation
@@ -201,6 +202,7 @@ contains solution all my leetcode questions
 | ------- |
 | [0136-single-number](https://github.com/7tanmay7/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/7tanmay7/leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/7tanmay7/leetcode/tree/master/0342-power-of-four) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/7tanmay7/leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 ## Prefix Sum
 |  |
@@ -262,6 +264,7 @@ contains solution all my leetcode questions
 | [0206-reverse-linked-list](https://github.com/7tanmay7/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/7tanmay7/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/7tanmay7/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/7tanmay7/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/7tanmay7/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
