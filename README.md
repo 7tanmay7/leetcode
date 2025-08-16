@@ -197,6 +197,7 @@ contains solution all my leetcode questions
 | [0342-power-of-four](https://github.com/7tanmay7/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/7tanmay7/leetcode/tree/master/1013-fibonacci-number) |
 | [1048-clumsy-factorial](https://github.com/7tanmay7/leetcode/tree/master/1048-clumsy-factorial) |
+| [1448-maximum-69-number](https://github.com/7tanmay7/leetcode/tree/master/1448-maximum-69-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -249,6 +250,7 @@ contains solution all my leetcode questions
 | [0134-gas-station](https://github.com/7tanmay7/leetcode/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/7tanmay7/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/7tanmay7/leetcode/tree/master/0409-longest-palindrome) |
+| [1448-maximum-69-number](https://github.com/7tanmay7/leetcode/tree/master/1448-maximum-69-number) |
 ## Simulation
 |  |
 | ------- |
