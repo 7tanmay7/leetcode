@@ -26,6 +26,7 @@ contains solution all my leetcode questions
 | [0283-move-zeroes](https://github.com/7tanmay7/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/7tanmay7/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/7tanmay7/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0679-24-game](https://github.com/7tanmay7/leetcode/tree/master/0679-24-game) |
 | [0735-asteroid-collision](https://github.com/7tanmay7/leetcode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/7tanmay7/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1036-rotting-oranges](https://github.com/7tanmay7/leetcode/tree/master/1036-rotting-oranges) |
@@ -196,6 +197,7 @@ contains solution all my leetcode questions
 | [0268-missing-number](https://github.com/7tanmay7/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/7tanmay7/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/7tanmay7/leetcode/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/7tanmay7/leetcode/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/7tanmay7/leetcode/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/7tanmay7/leetcode/tree/master/1013-fibonacci-number) |
 | [1048-clumsy-factorial](https://github.com/7tanmay7/leetcode/tree/master/1048-clumsy-factorial) |
@@ -279,6 +281,7 @@ contains solution all my leetcode questions
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/7tanmay7/leetcode/tree/master/0051-n-queens) |
+| [0679-24-game](https://github.com/7tanmay7/leetcode/tree/master/0679-24-game) |
 ## Doubly-Linked List
 |  |
 | ------- |
