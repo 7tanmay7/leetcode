@@ -147,6 +147,7 @@ contains solution all my leetcode questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/7tanmay7/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/7tanmay7/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/7tanmay7/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/7tanmay7/leetcode/tree/master/0070-climbing-stairs) |
@@ -176,6 +177,7 @@ contains solution all my leetcode questions
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/7tanmay7/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/7tanmay7/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/7tanmay7/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/7tanmay7/leetcode/tree/master/0042-trapping-rain-water) |
@@ -193,6 +195,7 @@ contains solution all my leetcode questions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/7tanmay7/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/7tanmay7/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/7tanmay7/leetcode/tree/master/0125-valid-palindrome) |
 | [0402-remove-k-digits](https://github.com/7tanmay7/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/7tanmay7/leetcode/tree/master/0409-longest-palindrome) |
