@@ -33,6 +33,7 @@ contains solution all my leetcode questions
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/7tanmay7/leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/7tanmay7/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1582-design-browser-history](https://github.com/7tanmay7/leetcode/tree/master/1582-design-browser-history) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/7tanmay7/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/7tanmay7/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2227-sum-of-subarray-ranges](https://github.com/7tanmay7/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/7tanmay7/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -158,6 +159,7 @@ contains solution all my leetcode questions
 | [0943-sum-of-subarray-minimums](https://github.com/7tanmay7/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/7tanmay7/leetcode/tree/master/1013-fibonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/7tanmay7/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/7tanmay7/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/7tanmay7/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Binary Search Tree
 |  |
@@ -317,6 +319,7 @@ contains solution all my leetcode questions
 | [0239-sliding-window-maximum](https://github.com/7tanmay7/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0867-new-21-game](https://github.com/7tanmay7/leetcode/tree/master/0867-new-21-game) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/7tanmay7/leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/7tanmay7/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Monotonic Queue
 |  |
 | ------- |
