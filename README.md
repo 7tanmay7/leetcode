@@ -25,6 +25,7 @@ contains solution all my leetcode questions
 | [0268-missing-number](https://github.com/7tanmay7/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/7tanmay7/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/7tanmay7/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0498-diagonal-traverse](https://github.com/7tanmay7/leetcode/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/7tanmay7/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0679-24-game](https://github.com/7tanmay7/leetcode/tree/master/0679-24-game) |
 | [0735-asteroid-collision](https://github.com/7tanmay7/leetcode/tree/master/0735-asteroid-collision) |
@@ -244,6 +245,7 @@ contains solution all my leetcode questions
 | ------- |
 | [0085-maximal-rectangle](https://github.com/7tanmay7/leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/7tanmay7/leetcode/tree/master/0200-number-of-islands) |
+| [0498-diagonal-traverse](https://github.com/7tanmay7/leetcode/tree/master/0498-diagonal-traverse) |
 | [1036-rotting-oranges](https://github.com/7tanmay7/leetcode/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/7tanmay7/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/7tanmay7/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -279,6 +281,7 @@ contains solution all my leetcode questions
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/7tanmay7/leetcode/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/7tanmay7/leetcode/tree/master/0735-asteroid-collision) |
 | [1048-clumsy-factorial](https://github.com/7tanmay7/leetcode/tree/master/1048-clumsy-factorial) |
 ## Recursion
