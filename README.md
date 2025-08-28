@@ -9,6 +9,7 @@ contains solution all my leetcode questions
 | [0001-two-sum](https://github.com/7tanmay7/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/7tanmay7/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/7tanmay7/leetcode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/7tanmay7/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/7tanmay7/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/7tanmay7/leetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/7tanmay7/leetcode/tree/master/0051-n-queens) |
@@ -110,6 +111,7 @@ contains solution all my leetcode questions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/7tanmay7/leetcode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/7tanmay7/leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/7tanmay7/leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/7tanmay7/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/7tanmay7/leetcode/tree/master/0268-missing-number) |
@@ -184,6 +186,7 @@ contains solution all my leetcode questions
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/7tanmay7/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/7tanmay7/leetcode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/7tanmay7/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/7tanmay7/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/7tanmay7/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/7tanmay7/leetcode/tree/master/0061-rotate-list) |
