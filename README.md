@@ -50,6 +50,7 @@ contains solution all my leetcode questions
 | ------- |
 | [0001-two-sum](https://github.com/7tanmay7/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/7tanmay7/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/7tanmay7/leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/7tanmay7/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/7tanmay7/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/7tanmay7/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -220,6 +221,7 @@ contains solution all my leetcode questions
 | [0005-longest-palindromic-substring](https://github.com/7tanmay7/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/7tanmay7/leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/7tanmay7/leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/7tanmay7/leetcode/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/7tanmay7/leetcode/tree/master/0125-valid-palindrome) |
 | [0402-remove-k-digits](https://github.com/7tanmay7/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/7tanmay7/leetcode/tree/master/0409-longest-palindrome) |
@@ -229,6 +231,7 @@ contains solution all my leetcode questions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/7tanmay7/leetcode/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/7tanmay7/leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/7tanmay7/leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/7tanmay7/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/7tanmay7/leetcode/tree/master/0326-power-of-three) |
