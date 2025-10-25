@@ -15,6 +15,7 @@ contains solution all my leetcode questions
 | [0042-trapping-rain-water](https://github.com/7tanmay7/leetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/7tanmay7/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/7tanmay7/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/7tanmay7/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/7tanmay7/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/7tanmay7/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/7tanmay7/leetcode/tree/master/0075-sort-colors) |
@@ -274,6 +275,7 @@ contains solution all my leetcode questions
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/7tanmay7/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/7tanmay7/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/7tanmay7/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/7tanmay7/leetcode/tree/master/0085-maximal-rectangle) |
@@ -314,6 +316,7 @@ contains solution all my leetcode questions
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/7tanmay7/leetcode/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/7tanmay7/leetcode/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/7tanmay7/leetcode/tree/master/0735-asteroid-collision) |
 | [1048-clumsy-factorial](https://github.com/7tanmay7/leetcode/tree/master/1048-clumsy-factorial) |
