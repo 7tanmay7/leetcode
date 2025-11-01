@@ -22,6 +22,7 @@ contains solution all my leetcode questions
 | [0074-search-a-2d-matrix](https://github.com/7tanmay7/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/7tanmay7/leetcode/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/7tanmay7/leetcode/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/7tanmay7/leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/7tanmay7/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/7tanmay7/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/7tanmay7/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -135,6 +136,7 @@ contains solution all my leetcode questions
 | [0018-4sum](https://github.com/7tanmay7/leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/7tanmay7/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/7tanmay7/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/7tanmay7/leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/7tanmay7/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/7tanmay7/leetcode/tree/master/0268-missing-number) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -220,6 +222,7 @@ contains solution all my leetcode questions
 | [0061-rotate-list](https://github.com/7tanmay7/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/7tanmay7/leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/7tanmay7/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/7tanmay7/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/7tanmay7/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/7tanmay7/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/7tanmay7/leetcode/tree/master/0143-reorder-list) |
