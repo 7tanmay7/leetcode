@@ -30,6 +30,7 @@ contains solution all my leetcode questions
 | [0134-gas-station](https://github.com/7tanmay7/leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/7tanmay7/leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/7tanmay7/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/7tanmay7/leetcode/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/7tanmay7/leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/7tanmay7/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/7tanmay7/leetcode/tree/master/0239-sliding-window-maximum) |
@@ -199,6 +200,7 @@ contains solution all my leetcode questions
 | [0004-median-of-two-sorted-arrays](https://github.com/7tanmay7/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/7tanmay7/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/7tanmay7/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/7tanmay7/leetcode/tree/master/0162-find-peak-element) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/7tanmay7/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0268-missing-number](https://github.com/7tanmay7/leetcode/tree/master/0268-missing-number) |
 | [0783-search-in-a-binary-search-tree](https://github.com/7tanmay7/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
