@@ -249,6 +249,7 @@ contains solution all my leetcode questions
 | [0125-valid-palindrome](https://github.com/7tanmay7/leetcode/tree/master/0125-valid-palindrome) |
 | [0402-remove-k-digits](https://github.com/7tanmay7/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/7tanmay7/leetcode/tree/master/0409-longest-palindrome) |
+| [0812-rotate-string](https://github.com/7tanmay7/leetcode/tree/master/0812-rotate-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/7tanmay7/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1970-sorting-the-sentence](https://github.com/7tanmay7/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2032-largest-odd-number-in-string](https://github.com/7tanmay7/leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -400,4 +401,8 @@ contains solution all my leetcode questions
 | ------- |
 | [0207-course-schedule](https://github.com/7tanmay7/leetcode/tree/master/0207-course-schedule) |
 | [2176-parallel-courses-iii](https://github.com/7tanmay7/leetcode/tree/master/2176-parallel-courses-iii) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/7tanmay7/leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
