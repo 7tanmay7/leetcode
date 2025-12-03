@@ -22,6 +22,7 @@ contains solution all my leetcode questions
 | [0073-set-matrix-zeroes](https://github.com/7tanmay7/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/7tanmay7/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/7tanmay7/leetcode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/7tanmay7/leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/7tanmay7/leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/7tanmay7/leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/7tanmay7/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -116,6 +117,7 @@ contains solution all my leetcode questions
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/7tanmay7/leetcode/tree/master/0079-word-search) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/7tanmay7/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/7tanmay7/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -258,6 +260,7 @@ contains solution all my leetcode questions
 | [0006-zigzag-conversion](https://github.com/7tanmay7/leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/7tanmay7/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/7tanmay7/leetcode/tree/master/0013-roman-to-integer) |
+| [0079-word-search](https://github.com/7tanmay7/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/7tanmay7/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/7tanmay7/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0402-remove-k-digits](https://github.com/7tanmay7/leetcode/tree/master/0402-remove-k-digits) |
@@ -316,6 +319,7 @@ contains solution all my leetcode questions
 | [0054-spiral-matrix](https://github.com/7tanmay7/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/7tanmay7/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/7tanmay7/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/7tanmay7/leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/7tanmay7/leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/7tanmay7/leetcode/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/7tanmay7/leetcode/tree/master/0498-diagonal-traverse) |
@@ -381,6 +385,7 @@ contains solution all my leetcode questions
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/7tanmay7/leetcode/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/7tanmay7/leetcode/tree/master/0079-word-search) |
 | [0679-24-game](https://github.com/7tanmay7/leetcode/tree/master/0679-24-game) |
 ## Doubly-Linked List
 |  |
