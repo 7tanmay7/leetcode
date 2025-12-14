@@ -175,6 +175,7 @@ contains solution all my leetcode questions
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/7tanmay7/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/7tanmay7/leetcode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/7tanmay7/leetcode/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/7tanmay7/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -261,6 +262,7 @@ contains solution all my leetcode questions
 | [0006-zigzag-conversion](https://github.com/7tanmay7/leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/7tanmay7/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/7tanmay7/leetcode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/7tanmay7/leetcode/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/7tanmay7/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/7tanmay7/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/7tanmay7/leetcode/tree/master/0151-reverse-words-in-a-string) |
