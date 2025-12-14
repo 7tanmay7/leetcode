@@ -129,6 +129,7 @@ contains solution all my leetcode questions
 | [0801-is-graph-bipartite](https://github.com/7tanmay7/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1192-critical-connections-in-a-network](https://github.com/7tanmay7/leetcode/tree/master/1192-critical-connections-in-a-network) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -316,6 +317,7 @@ contains solution all my leetcode questions
 | ------- |
 | [0207-course-schedule](https://github.com/7tanmay7/leetcode/tree/master/0207-course-schedule) |
 | [0801-is-graph-bipartite](https://github.com/7tanmay7/leetcode/tree/master/0801-is-graph-bipartite) |
+| [1192-critical-connections-in-a-network](https://github.com/7tanmay7/leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [2176-parallel-courses-iii](https://github.com/7tanmay7/leetcode/tree/master/2176-parallel-courses-iii) |
 ## Matrix
 |  |
@@ -443,4 +445,8 @@ contains solution all my leetcode questions
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/7tanmay7/leetcode/tree/master/0148-sort-list) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/7tanmay7/leetcode/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
