@@ -43,6 +43,7 @@ contains solution all my leetcode questions
 | [0485-max-consecutive-ones](https://github.com/7tanmay7/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/7tanmay7/leetcode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/7tanmay7/leetcode/tree/master/0498-diagonal-traverse) |
+| [0523-continuous-subarray-sum](https://github.com/7tanmay7/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/7tanmay7/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0679-24-game](https://github.com/7tanmay7/leetcode/tree/master/0679-24-game) |
 | [0713-subarray-product-less-than-k](https://github.com/7tanmay7/leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -86,6 +87,7 @@ contains solution all my leetcode questions
 | [0409-longest-palindrome](https://github.com/7tanmay7/leetcode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/7tanmay7/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/7tanmay7/leetcode/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/7tanmay7/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/7tanmay7/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -309,6 +311,7 @@ contains solution all my leetcode questions
 | [0268-missing-number](https://github.com/7tanmay7/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/7tanmay7/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/7tanmay7/leetcode/tree/master/0342-power-of-four) |
+| [0523-continuous-subarray-sum](https://github.com/7tanmay7/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0679-24-game](https://github.com/7tanmay7/leetcode/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/7tanmay7/leetcode/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/7tanmay7/leetcode/tree/master/1013-fibonacci-number) |
@@ -328,6 +331,7 @@ contains solution all my leetcode questions
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/7tanmay7/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/7tanmay7/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/7tanmay7/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/7tanmay7/leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
