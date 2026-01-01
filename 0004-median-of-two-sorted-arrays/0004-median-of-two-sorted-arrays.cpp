@@ -1,30 +1,32 @@
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
+        // Make sure nums1 is the smaller array
+        if (nums1.size() > nums2.size())
+            return findMedianSortedArrays(nums2, nums1);
+
         int m = nums1.size(), n = nums2.size();
-        int total = m + n;
-        int target = total / 2;
-        
-        int i = 0, j = 0;
-        int prev = 0, curr = 0;
-        
-        // Move pointers to find median position(s)
-        for(int count = 0; count <= target; count++) {
-            prev = curr;
-            
-            if(i < m && (j >= n || nums1[i] <= nums2[j])) {
-                curr = nums1[i];
-                i++;
+        int left = 0, right = m;
+        while (left <= right) {
+            int i = left + (right - left) / 2;
+            int j = (m + n + 1) / 2 - i;
+
+            int maxLeftA = (i == 0) ? INT_MIN : nums1[i - 1];
+            int minRightA = (i == m) ? INT_MAX : nums1[i];
+            int maxLeftB = (j == 0) ? INT_MIN : nums2[j - 1];
+            int minRightB = (j == n) ? INT_MAX : nums2[j];
+
+            if (maxLeftA <= minRightB && maxLeftB <= minRightA) {
+                if ((m + n) % 2 == 0)
+                    return (max(maxLeftA, maxLeftB) + min(minRightA, minRightB)) / 2.0;
+                else
+                    return double(max(maxLeftA, maxLeftB));
+            } else if (maxLeftA > minRightB) {
+                right = i - 1;
             } else {
-                curr = nums2[j];
-                j++;
+                left = i + 1;
             }
         }
-        
-        if(total % 2 == 1) {
-            return (double)curr;
-        } else {
-            return (prev + curr) / 2.0;
-        }
+        return 0.0; // Should never reach here
     }
 };
