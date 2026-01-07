@@ -119,6 +119,7 @@ contains solution all my leetcode questions
 | [0784-insert-into-a-binary-search-tree](https://github.com/7tanmay7/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -134,6 +135,7 @@ contains solution all my leetcode questions
 | [0784-insert-into-a-binary-search-tree](https://github.com/7tanmay7/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -149,6 +151,7 @@ contains solution all my leetcode questions
 | [0801-is-graph-bipartite](https://github.com/7tanmay7/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/7tanmay7/leetcode/tree/master/1192-critical-connections-in-a-network) |
 ## Breadth-First Search
 |  |
@@ -160,6 +163,7 @@ contains solution all my leetcode questions
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/7tanmay7/leetcode/tree/master/1036-rotting-oranges) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Sorting
 |  |
 | ------- |
