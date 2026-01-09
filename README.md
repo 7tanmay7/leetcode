@@ -107,6 +107,7 @@ contains solution all my leetcode questions
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/7tanmay7/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/7tanmay7/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -124,6 +125,7 @@ contains solution all my leetcode questions
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/7tanmay7/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/7tanmay7/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -142,6 +144,7 @@ contains solution all my leetcode questions
 |  |
 | ------- |
 | [0079-word-search](https://github.com/7tanmay7/leetcode/tree/master/0079-word-search) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/7tanmay7/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/7tanmay7/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -160,6 +163,7 @@ contains solution all my leetcode questions
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/7tanmay7/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/7tanmay7/leetcode/tree/master/0207-course-schedule) |
