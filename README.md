@@ -110,6 +110,7 @@ contains solution all my leetcode questions
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/7tanmay7/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/7tanmay7/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/7tanmay7/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -129,6 +130,7 @@ contains solution all my leetcode questions
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/7tanmay7/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/7tanmay7/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/7tanmay7/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -149,6 +151,7 @@ contains solution all my leetcode questions
 |  |
 | ------- |
 | [0079-word-search](https://github.com/7tanmay7/leetcode/tree/master/0079-word-search) |
+| [0100-same-tree](https://github.com/7tanmay7/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -171,6 +174,7 @@ contains solution all my leetcode questions
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/7tanmay7/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/7tanmay7/leetcode/tree/master/0130-surrounded-regions) |
