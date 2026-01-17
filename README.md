@@ -166,6 +166,7 @@ contains solution all my leetcode questions
 | [0543-diameter-of-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/7tanmay7/leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/7tanmay7/leetcode/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/7tanmay7/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/7tanmay7/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/7tanmay7/leetcode/tree/master/1020-number-of-enclaves) |
@@ -185,6 +186,7 @@ contains solution all my leetcode questions
 | [0542-01-matrix](https://github.com/7tanmay7/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/7tanmay7/leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/7tanmay7/leetcode/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/7tanmay7/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/7tanmay7/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/7tanmay7/leetcode/tree/master/1020-number-of-enclaves) |
@@ -529,5 +531,10 @@ contains solution all my leetcode questions
 ## Union-Find
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/7tanmay7/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/7tanmay7/leetcode/tree/master/1020-number-of-enclaves) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/7tanmay7/leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
