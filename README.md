@@ -174,6 +174,7 @@ contains solution all my leetcode questions
 | [0733-flood-fill](https://github.com/7tanmay7/leetcode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/7tanmay7/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/7tanmay7/leetcode/tree/master/0801-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/7tanmay7/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/7tanmay7/leetcode/tree/master/1020-number-of-enclaves) |
@@ -195,6 +196,7 @@ contains solution all my leetcode questions
 | [0733-flood-fill](https://github.com/7tanmay7/leetcode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/7tanmay7/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/7tanmay7/leetcode/tree/master/0801-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/7tanmay7/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/7tanmay7/leetcode/tree/master/1020-number-of-enclaves) |
@@ -517,6 +519,7 @@ contains solution all my leetcode questions
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/7tanmay7/leetcode/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/7tanmay7/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [2176-parallel-courses-iii](https://github.com/7tanmay7/leetcode/tree/master/2176-parallel-courses-iii) |
 ## String Matching
 |  |
@@ -550,4 +553,5 @@ contains solution all my leetcode questions
 | ------- |
 | [0547-number-of-provinces](https://github.com/7tanmay7/leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/7tanmay7/leetcode/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/7tanmay7/leetcode/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
