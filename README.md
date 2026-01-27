@@ -175,6 +175,7 @@ contains solution all my leetcode questions
 | [0543-diameter-of-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/7tanmay7/leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/7tanmay7/leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/7tanmay7/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/7tanmay7/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/7tanmay7/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/7tanmay7/leetcode/tree/master/0802-find-eventual-safe-states) |
@@ -198,6 +199,7 @@ contains solution all my leetcode questions
 | [0542-01-matrix](https://github.com/7tanmay7/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/7tanmay7/leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/7tanmay7/leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/7tanmay7/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/7tanmay7/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/7tanmay7/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/7tanmay7/leetcode/tree/master/0802-find-eventual-safe-states) |
@@ -306,6 +308,7 @@ contains solution all my leetcode questions
 | [0215-kth-largest-element-in-an-array](https://github.com/7tanmay7/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/7tanmay7/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/7tanmay7/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0743-network-delay-time](https://github.com/7tanmay7/leetcode/tree/master/0743-network-delay-time) |
 ## Quickselect
 |  |
 | ------- |
@@ -559,11 +562,13 @@ contains solution all my leetcode questions
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/7tanmay7/leetcode/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/7tanmay7/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/7tanmay7/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/7tanmay7/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/7tanmay7/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/7tanmay7/leetcode/tree/master/0743-network-delay-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/7tanmay7/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
