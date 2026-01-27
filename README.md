@@ -280,6 +280,7 @@ contains solution all my leetcode questions
 | [1402-count-square-submatrices-with-all-ones](https://github.com/7tanmay7/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/7tanmay7/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/7tanmay7/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/7tanmay7/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2176-parallel-courses-iii](https://github.com/7tanmay7/leetcode/tree/master/2176-parallel-courses-iii) |
 ## Binary Search Tree
 |  |
@@ -525,6 +526,7 @@ contains solution all my leetcode questions
 | ------- |
 | [0207-course-schedule](https://github.com/7tanmay7/leetcode/tree/master/0207-course-schedule) |
 | [0802-find-eventual-safe-states](https://github.com/7tanmay7/leetcode/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/7tanmay7/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2176-parallel-courses-iii](https://github.com/7tanmay7/leetcode/tree/master/2176-parallel-courses-iii) |
 ## String Matching
 |  |
@@ -559,4 +561,9 @@ contains solution all my leetcode questions
 | [0547-number-of-provinces](https://github.com/7tanmay7/leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/7tanmay7/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/7tanmay7/leetcode/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/7tanmay7/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Shortest Path
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/7tanmay7/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
