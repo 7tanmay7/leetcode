@@ -313,6 +313,7 @@ contains solution all my leetcode questions
 | [0451-sort-characters-by-frequency](https://github.com/7tanmay7/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/7tanmay7/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/7tanmay7/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/7tanmay7/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Quickselect
 |  |
 | ------- |
@@ -571,10 +572,12 @@ contains solution all my leetcode questions
 | [0787-cheapest-flights-within-k-stops](https://github.com/7tanmay7/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/7tanmay7/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/7tanmay7/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/7tanmay7/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/7tanmay7/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/7tanmay7/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/7tanmay7/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/7tanmay7/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
