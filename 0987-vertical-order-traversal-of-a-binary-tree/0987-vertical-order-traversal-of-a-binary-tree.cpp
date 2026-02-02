@@ -1,29 +1,33 @@
 class Solution {
 public:
     vector<vector<int>> verticalTraversal(TreeNode* root) {
-        // Map: col -> row -> multiset of values (to auto-sort for ties)
         map<int, map<int, multiset<int>>> nodes;
-        // Queue for BFS: node, col, row
-        queue<tuple<TreeNode*, int, int>> q;
-        q.push({root, 0, 0});
-
-        while (!q.empty()) {
-            auto [node, col, row] = q.front();
+        queue<pair<TreeNode*, pair<int,int>>> q;
+        q.push({root, {0, 0}});
+        
+        while(!q.empty()) {
+            auto temp = q.front();
             q.pop();
-
-            nodes[col][row].insert(node->val);
-
-            if (node->left) q.push({node->left, col - 1, row + 1});
-            if (node->right) q.push({node->right, col + 1, row + 1});
+            
+            TreeNode* node = temp.first;
+            int x = temp.second.first;
+            int y = temp.second.second;
+            
+            nodes[x][y].insert(node->val);
+            
+            if(node->left)
+                q.push({node->left, {x - 1, y + 1}});
+            if(node->right)
+                q.push({node->right, {x + 1, y + 1}});
         }
-
+        
         vector<vector<int>> ans;
-        for (auto& [col, mp] : nodes) {
-            vector<int> colNodes;
-            for (auto& [row, vals] : mp) {
-                colNodes.insert(colNodes.end(), vals.begin(), vals.end());
+        for(auto &p : nodes) {
+            vector<int> col;
+            for(auto &q : p.second) {
+                col.insert(col.end(), q.second.begin(), q.second.end());
             }
-            ans.push_back(colNodes);
+            ans.push_back(col);
         }
         return ans;
     }
