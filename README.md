@@ -72,6 +72,7 @@ contains solution all my leetcode questions
 | [2227-sum-of-subarray-ranges](https://github.com/7tanmay7/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/7tanmay7/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/7tanmay7/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2498-frog-jump-ii](https://github.com/7tanmay7/leetcode/tree/master/2498-frog-jump-ii) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/7tanmay7/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/7tanmay7/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/7tanmay7/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -307,6 +308,7 @@ contains solution all my leetcode questions
 | [0852-peak-index-in-a-mountain-array](https://github.com/7tanmay7/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/7tanmay7/leetcode/tree/master/0907-koko-eating-bananas) |
 | [2047-find-a-peak-element-ii](https://github.com/7tanmay7/leetcode/tree/master/2047-find-a-peak-element-ii) |
+| [2498-frog-jump-ii](https://github.com/7tanmay7/leetcode/tree/master/2498-frog-jump-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -468,6 +470,7 @@ contains solution all my leetcode questions
 | [1448-maximum-69-number](https://github.com/7tanmay7/leetcode/tree/master/1448-maximum-69-number) |
 | [1903-largest-odd-number-in-string](https://github.com/7tanmay7/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2032-largest-odd-number-in-string](https://github.com/7tanmay7/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2498-frog-jump-ii](https://github.com/7tanmay7/leetcode/tree/master/2498-frog-jump-ii) |
 ## Simulation
 |  |
 | ------- |
