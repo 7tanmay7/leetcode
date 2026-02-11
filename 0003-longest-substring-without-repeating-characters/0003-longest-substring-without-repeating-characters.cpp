@@ -1,20 +1,15 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        vector<int> count(256, 0); // for all ASCII characters
-        int n = s.size();
-        int left = 0, right = 0, total = 0;
-
-        while (right < n) {
-            // If s[right] is already in the window, shrink from left
-            while (count[s[right]] > 0) {
-                count[s[left]]--;
-                left++;
+        unordered_map<char, int> lastSeen;
+        int maxLen = 0, start = 0;
+        for (int end = 0; end < s.length(); ++end) {
+            if (lastSeen.count(s[end]) && lastSeen[s[end]] >= start) {
+                start = lastSeen[s[end]] + 1;
             }
-            count[s[right]]++;
-            total = max(total, right - left + 1);
-            right++;
+            lastSeen[s[end]] = end;
+            maxLen = max(maxLen, end - start + 1);
         }
-        return total;
+        return maxLen;
     }
 };
