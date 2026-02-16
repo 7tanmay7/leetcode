@@ -1,19 +1,13 @@
 class Solution {
 public:
-    int missingNumber(vector<int>& a) {
-        int n = a.size();
-        int xor1 = 0, xor2 = 0;
-
-        // XOR of all array elements
-        for (int i = 0; i < n; i++) {
-            xor1 ^= a[i];
-        }
-
-        // XOR of all numbers from 0 to n
-        for (int i = 0; i <= n; i++) {
-            xor2 ^= i;
-        }
-
-        return xor1 ^ xor2;
+    int missingNumber(vector<int>& nums) {
+        int n = nums.size();
+    long long optimum_sum = (n * (n + 1)) / 2; // the sum if no number is absent
+    long long actual_sum = 0;
+    for (auto it : nums)
+    {
+        actual_sum += it;
     }
+    return optimum_sum - actual_sum;
+}
 };
