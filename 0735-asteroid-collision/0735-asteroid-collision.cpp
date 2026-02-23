@@ -1,39 +1,27 @@
 class Solution {
 public:
     vector<int> asteroidCollision(vector<int>& asteroids) {
-        stack<int> st;
-
+        vector<int> stack;
         for (int a : asteroids) {
-            bool destroyed = false;
-
-            // Handle collisions when current is left-moving and top is right-moving
-            while (!st.empty() && a < 0 && st.top() > 0) {
-                if (abs(a) > st.top()) {
-                    st.pop(); // destroy top and continue loop
-                } 
-                else if (abs(a) == st.top()) {
-                    st.pop(); // both explode
-                    destroyed = true;
-                    break;
-                } 
-                else {
-                    destroyed = true; // left-moving is smaller, destroyed
-                    break;
+            bool exploded = false;
+            // Handle left-moving asteroid collision
+            while (!stack.empty() && a < 0 && stack.back() > 0) {
+                if (stack.back() < -a) {
+                    stack.pop_back();
+                    continue; // Check for more collisions
+                } else if (stack.back() == -a) {
+                    stack.pop_back();
+                    exploded = true;
+                    break; // Both explode
+                } else {
+                    exploded = true;
+                    break; // Current asteroid explodes
                 }
             }
-
-            if (!destroyed) {
-                st.push(a);
+            if (!exploded) {
+                stack.push_back(a);
             }
         }
-
-        // Convert stack to vector (in reverse)
-        vector<int> res(st.size());
-        for (int i = st.size() - 1; i >= 0; i--) {
-            res[i] = st.top();
-            st.pop();
-        }
-
-        return res;
+        return stack;
     }
 };
