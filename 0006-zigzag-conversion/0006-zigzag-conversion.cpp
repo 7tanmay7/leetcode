@@ -1,20 +1,23 @@
 class Solution {
 public:
     string convert(string s, int numRows) {
-        if (numRows == 1 || numRows >= s.size()) return s;
-
-        vector<string> rows(min(numRows, (int)s.size()));
-        int curRow = 0;
+        if(numRows == 1 || numRows >= s.size()) return s;
+        
+        vector<string> rows(numRows);
+        int currRow = 0;
         bool goingDown = false;
-
-        for (char c : s) {
-            rows[curRow] += c;
-            if (curRow == 0 || curRow == numRows - 1) goingDown = !goingDown;
-            curRow += goingDown ? 1 : -1;
+        
+        for(char c : s) {
+            rows[currRow] += c;
+            if(currRow == 0 || currRow == numRows - 1)
+                goingDown = !goingDown;
+            currRow += goingDown ? 1 : -1;
         }
-
+        
         string result;
-        for (string &row : rows) result += row;
+        for(string row : rows)
+            result += row;
+        
         return result;
     }
 };
