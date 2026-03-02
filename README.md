@@ -52,6 +52,7 @@ contains solution all my leetcode questions
 | [0542-01-matrix](https://github.com/7tanmay7/leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/7tanmay7/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0679-24-game](https://github.com/7tanmay7/leetcode/tree/master/0679-24-game) |
+| [0704-binary-search](https://github.com/7tanmay7/leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/7tanmay7/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/7tanmay7/leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/7tanmay7/leetcode/tree/master/0735-asteroid-collision) |
@@ -308,6 +309,7 @@ contains solution all my leetcode questions
 | [0268-missing-number](https://github.com/7tanmay7/leetcode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/7tanmay7/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0700-search-in-a-binary-search-tree](https://github.com/7tanmay7/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0704-binary-search](https://github.com/7tanmay7/leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/7tanmay7/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/7tanmay7/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0783-search-in-a-binary-search-tree](https://github.com/7tanmay7/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
