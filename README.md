@@ -26,6 +26,7 @@ contains solution all my leetcode questions
 | [0074-search-a-2d-matrix](https://github.com/7tanmay7/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/7tanmay7/leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/7tanmay7/leetcode/tree/master/0079-word-search) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/7tanmay7/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/7tanmay7/leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/7tanmay7/leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/7tanmay7/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -305,6 +306,7 @@ contains solution all my leetcode questions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/7tanmay7/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/7tanmay7/leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/7tanmay7/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/7tanmay7/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/7tanmay7/leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/7tanmay7/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/7tanmay7/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
