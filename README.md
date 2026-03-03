@@ -36,6 +36,7 @@ contains solution all my leetcode questions
 | [0134-gas-station](https://github.com/7tanmay7/leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/7tanmay7/leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/7tanmay7/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/7tanmay7/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/7tanmay7/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/7tanmay7/leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/7tanmay7/leetcode/tree/master/0198-house-robber) |
@@ -307,6 +308,7 @@ contains solution all my leetcode questions
 | [0035-search-insert-position](https://github.com/7tanmay7/leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/7tanmay7/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/7tanmay7/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/7tanmay7/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/7tanmay7/leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/7tanmay7/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/7tanmay7/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
