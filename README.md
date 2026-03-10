@@ -44,6 +44,7 @@ contains solution all my leetcode questions
 | [0209-minimum-size-subarray-sum](https://github.com/7tanmay7/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/7tanmay7/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/7tanmay7/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/7tanmay7/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/7tanmay7/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/7tanmay7/leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/7tanmay7/leetcode/tree/master/0455-assign-cookies) |
@@ -119,6 +120,7 @@ contains solution all my leetcode questions
 | [0148-sort-list](https://github.com/7tanmay7/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/7tanmay7/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/7tanmay7/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/7tanmay7/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Tree
 |  |
 | ------- |
@@ -313,6 +315,7 @@ contains solution all my leetcode questions
 | [0162-find-peak-element](https://github.com/7tanmay7/leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/7tanmay7/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/7tanmay7/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0240-search-a-2d-matrix-ii](https://github.com/7tanmay7/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/7tanmay7/leetcode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/7tanmay7/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0700-search-in-a-binary-search-tree](https://github.com/7tanmay7/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -448,6 +451,7 @@ contains solution all my leetcode questions
 | [0085-maximal-rectangle](https://github.com/7tanmay7/leetcode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/7tanmay7/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/7tanmay7/leetcode/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/7tanmay7/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/7tanmay7/leetcode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/7tanmay7/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/7tanmay7/leetcode/tree/master/0733-flood-fill) |
