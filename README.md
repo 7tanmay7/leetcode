@@ -26,6 +26,7 @@ contains solution all my leetcode questions
 | [0073-set-matrix-zeroes](https://github.com/7tanmay7/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/7tanmay7/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/7tanmay7/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/7tanmay7/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/7tanmay7/leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/7tanmay7/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/7tanmay7/leetcode/tree/master/0085-maximal-rectangle) |
@@ -420,6 +421,7 @@ contains solution all my leetcode questions
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/7tanmay7/leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/7tanmay7/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/7tanmay7/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/7tanmay7/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/7tanmay7/leetcode/tree/master/0342-power-of-four) |
@@ -532,6 +534,7 @@ contains solution all my leetcode questions
 | ------- |
 | [0039-combination-sum](https://github.com/7tanmay7/leetcode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/7tanmay7/leetcode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/7tanmay7/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/7tanmay7/leetcode/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/7tanmay7/leetcode/tree/master/0257-binary-tree-paths) |
 | [0679-24-game](https://github.com/7tanmay7/leetcode/tree/master/0679-24-game) |
