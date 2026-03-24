@@ -297,6 +297,7 @@ contains solution all my leetcode questions
 | [0085-maximal-rectangle](https://github.com/7tanmay7/leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/7tanmay7/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/7tanmay7/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/7tanmay7/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/7tanmay7/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/7tanmay7/leetcode/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/7tanmay7/leetcode/tree/master/0542-01-matrix) |
@@ -384,6 +385,7 @@ contains solution all my leetcode questions
 | [0020-valid-parentheses](https://github.com/7tanmay7/leetcode/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/7tanmay7/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/7tanmay7/leetcode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/7tanmay7/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/7tanmay7/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/7tanmay7/leetcode/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/7tanmay7/leetcode/tree/master/0402-remove-k-digits) |
@@ -540,6 +542,7 @@ contains solution all my leetcode questions
 | [0051-n-queens](https://github.com/7tanmay7/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/7tanmay7/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/7tanmay7/leetcode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/7tanmay7/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/7tanmay7/leetcode/tree/master/0257-binary-tree-paths) |
 | [0679-24-game](https://github.com/7tanmay7/leetcode/tree/master/0679-24-game) |
 ## Doubly-Linked List
