@@ -295,6 +295,7 @@ contains solution all my leetcode questions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/7tanmay7/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/7tanmay7/leetcode/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/7tanmay7/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/7tanmay7/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/7tanmay7/leetcode/tree/master/0070-climbing-stairs) |
@@ -386,6 +387,7 @@ contains solution all my leetcode questions
 | [0005-longest-palindromic-substring](https://github.com/7tanmay7/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/7tanmay7/leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/7tanmay7/leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/7tanmay7/leetcode/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/7tanmay7/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/7tanmay7/leetcode/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/7tanmay7/leetcode/tree/master/0079-word-search) |
@@ -526,6 +528,7 @@ contains solution all my leetcode questions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/7tanmay7/leetcode/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/7tanmay7/leetcode/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/7tanmay7/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/7tanmay7/leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/7tanmay7/leetcode/tree/master/0203-remove-linked-list-elements) |
