@@ -45,6 +45,7 @@ contains solution all my leetcode questions
 | [0169-majority-element](https://github.com/7tanmay7/leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/7tanmay7/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/7tanmay7/leetcode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/7tanmay7/leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/7tanmay7/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/7tanmay7/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/7tanmay7/leetcode/tree/master/0239-sliding-window-maximum) |
@@ -419,6 +420,7 @@ contains solution all my leetcode questions
 | [0029-divide-two-integers](https://github.com/7tanmay7/leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/7tanmay7/leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/7tanmay7/leetcode/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/7tanmay7/leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/7tanmay7/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/7tanmay7/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/7tanmay7/leetcode/tree/master/0342-power-of-four) |
@@ -591,6 +593,7 @@ contains solution all my leetcode questions
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/7tanmay7/leetcode/tree/master/0204-count-primes) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/7tanmay7/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Topological Sort
 |  |
@@ -644,4 +647,8 @@ contains solution all my leetcode questions
 | [0787-cheapest-flights-within-k-stops](https://github.com/7tanmay7/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/7tanmay7/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/7tanmay7/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/7tanmay7/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
