@@ -1,29 +1,36 @@
 class Solution {
 public:
     void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
-            int i = m - 1;
+        int i = 0; // Pointer for nums1
+        int j = 0; // Pointer for nums2
+        vector<int> unionArr; // Your temporary storage
 
-        // j points to last element in nums2
-        int j = n - 1;
-
-        // k is the last index of nums1 (including 0 placeholders)
-        int k = m + n - 1;
-
-        // Fill nums1 from the end by comparing nums1[i] and nums2[j]
-        while (i >= 0 && j >= 0) {
-            // Place larger of the two at nums1[k]
-            if (nums1[i] > nums2[j]) {
-                nums1[k--] = nums1[i--];
+        // 1. Compare and add the smaller element to unionArr
+        while (i < m && j < n) {
+            if (nums1[i] <= nums2[j]) {
+                unionArr.push_back(nums1[i]);
+                i++;
             } else {
-                nums1[k--] = nums2[j--];
+                unionArr.push_back(nums2[j]);
+                j++;
             }
         }
 
-        // If nums2 has remaining elements, copy them
-        while (j >= 0) {
-            nums1[k--] = nums2[j--];
+        // 2. Add remaining elements from nums1 (if any)
+        while (i < m) {
+            unionArr.push_back(nums1[i]);
+            i++;
         }
 
-        // No need to copy remaining nums1 elements, as they are already in place
+        // 3. Add remaining elements from nums2 (if any)
+        while (j < n) {
+            unionArr.push_back(nums2[j]);
+            j++;
+        }
+
+        // 4. Copy the sorted elements back into nums1
+        for (int k = 0; k < m + n; k++) {
+            nums1[k] = unionArr[k];
+        }
     }
 };
