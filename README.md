@@ -64,6 +64,7 @@ contains solution all my leetcode questions
 | [0679-24-game](https://github.com/7tanmay7/leetcode/tree/master/0679-24-game) |
 | [0704-binary-search](https://github.com/7tanmay7/leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/7tanmay7/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/7tanmay7/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/7tanmay7/leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/7tanmay7/leetcode/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/7tanmay7/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -456,6 +457,7 @@ contains solution all my leetcode questions
 | [0523-continuous-subarray-sum](https://github.com/7tanmay7/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/7tanmay7/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/7tanmay7/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/7tanmay7/leetcode/tree/master/0724-find-pivot-index) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/7tanmay7/leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 ## Union Find
 |  |
