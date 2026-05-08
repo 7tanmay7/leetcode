@@ -58,6 +58,7 @@ contains solution all my leetcode questions
 | [0496-next-greater-element-i](https://github.com/7tanmay7/leetcode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/7tanmay7/leetcode/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/7tanmay7/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/7tanmay7/leetcode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/7tanmay7/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/7tanmay7/leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/7tanmay7/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -114,6 +115,7 @@ contains solution all my leetcode questions
 | [0451-sort-characters-by-frequency](https://github.com/7tanmay7/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/7tanmay7/leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/7tanmay7/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/7tanmay7/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/7tanmay7/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -457,6 +459,7 @@ contains solution all my leetcode questions
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/7tanmay7/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/7tanmay7/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/7tanmay7/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/7tanmay7/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/7tanmay7/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/7tanmay7/leetcode/tree/master/0724-find-pivot-index) |
