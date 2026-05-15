@@ -77,6 +77,7 @@ contains solution all my leetcode questions
 | [0943-sum-of-subarray-minimums](https://github.com/7tanmay7/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/7tanmay7/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/7tanmay7/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/7tanmay7/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/7tanmay7/leetcode/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/7tanmay7/leetcode/tree/master/1036-rotting-oranges) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/7tanmay7/leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -363,6 +364,7 @@ contains solution all my leetcode questions
 | [0784-insert-into-a-binary-search-tree](https://github.com/7tanmay7/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/7tanmay7/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/7tanmay7/leetcode/tree/master/0907-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/7tanmay7/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1901-find-a-peak-element-ii](https://github.com/7tanmay7/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/7tanmay7/leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2498-frog-jump-ii](https://github.com/7tanmay7/leetcode/tree/master/2498-frog-jump-ii) |
@@ -479,6 +481,7 @@ contains solution all my leetcode questions
 | [0713-subarray-product-less-than-k](https://github.com/7tanmay7/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/7tanmay7/leetcode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/7tanmay7/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/7tanmay7/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/7tanmay7/leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 ## Union Find
 |  |
@@ -609,6 +612,7 @@ contains solution all my leetcode questions
 | [0713-subarray-product-less-than-k](https://github.com/7tanmay7/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0867-new-21-game](https://github.com/7tanmay7/leetcode/tree/master/0867-new-21-game) |
 | [0904-fruit-into-baskets](https://github.com/7tanmay7/leetcode/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/7tanmay7/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/7tanmay7/leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/7tanmay7/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/7tanmay7/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
