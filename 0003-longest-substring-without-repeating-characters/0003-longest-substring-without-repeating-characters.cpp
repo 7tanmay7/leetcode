@@ -1,15 +1,33 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        unordered_map<char, int> lastSeen;
-        int maxLen = 0, start = 0;
-        for (int end = 0; end < s.length(); ++end) {
-            if (lastSeen.count(s[end]) && lastSeen[s[end]] >= start) {
-                start = lastSeen[s[end]] + 1;
+        int n = s.length();
+        int low = 0;
+        int res = 0;
+        unordered_map<char, int> f; // Frequency map
+
+        for (int high = 0; high < n; high++) {
+            // Add the current character to the map
+            f[s[high]]++;
+
+            // If the current character is a duplicate, shrink from the left
+            // until the count of s[high] is back to 1
+            while (f[s[high]] > 1) {
+                char left_char = s[low];
+                f[left_char]--;
+                
+                // Optional: remove key if count is 0 to keep map clean
+                if (f[left_char] == 0) {
+                    f.erase(left_char);
+                }
+
+                low++; // Move the left pointer forward
             }
-            lastSeen[s[end]] = end;
-            maxLen = max(maxLen, end - start + 1);
+
+            // Calculate maximum window size (all characters are now unique)
+            res = max(res, high - low + 1);
         }
-        return maxLen;
+
+        return res;
     }
 };
