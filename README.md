@@ -24,6 +24,7 @@ contains solution all my leetcode questions
 | [0051-n-queens](https://github.com/7tanmay7/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/7tanmay7/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/7tanmay7/leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/7tanmay7/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/7tanmay7/leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/7tanmay7/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/7tanmay7/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -320,6 +321,7 @@ contains solution all my leetcode questions
 | [0042-trapping-rain-water](https://github.com/7tanmay7/leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/7tanmay7/leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/7tanmay7/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/7tanmay7/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/7tanmay7/leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/7tanmay7/leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/7tanmay7/leetcode/tree/master/0118-pascals-triangle) |
@@ -549,6 +551,7 @@ contains solution all my leetcode questions
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/7tanmay7/leetcode/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/7tanmay7/leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/7tanmay7/leetcode/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/7tanmay7/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/7tanmay7/leetcode/tree/master/0409-longest-palindrome) |
