@@ -56,6 +56,7 @@ contains solution all my leetcode questions
 | [0268-missing-number](https://github.com/7tanmay7/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/7tanmay7/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/7tanmay7/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/7tanmay7/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/7tanmay7/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/7tanmay7/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/7tanmay7/leetcode/tree/master/0496-next-greater-element-i) |
@@ -267,6 +268,7 @@ contains solution all my leetcode questions
 | [0215-kth-largest-element-in-an-array](https://github.com/7tanmay7/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/7tanmay7/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/7tanmay7/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/7tanmay7/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/7tanmay7/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/7tanmay7/leetcode/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/7tanmay7/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -330,6 +332,7 @@ contains solution all my leetcode questions
 | [0131-palindrome-partitioning](https://github.com/7tanmay7/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/7tanmay7/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/7tanmay7/leetcode/tree/master/0198-house-robber) |
+| [0435-non-overlapping-intervals](https://github.com/7tanmay7/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/7tanmay7/leetcode/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/7tanmay7/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0867-new-21-game](https://github.com/7tanmay7/leetcode/tree/master/0867-new-21-game) |
@@ -555,6 +558,7 @@ contains solution all my leetcode questions
 | [0134-gas-station](https://github.com/7tanmay7/leetcode/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/7tanmay7/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/7tanmay7/leetcode/tree/master/0409-longest-palindrome) |
+| [0435-non-overlapping-intervals](https://github.com/7tanmay7/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/7tanmay7/leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/7tanmay7/leetcode/tree/master/0860-lemonade-change) |
 | [1448-maximum-69-number](https://github.com/7tanmay7/leetcode/tree/master/1448-maximum-69-number) |
