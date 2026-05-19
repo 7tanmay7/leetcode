@@ -89,6 +89,7 @@ contains solution all my leetcode questions
 | [1582-special-positions-in-a-binary-matrix](https://github.com/7tanmay7/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/7tanmay7/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/7tanmay7/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1710-maximum-units-on-a-truck](https://github.com/7tanmay7/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/7tanmay7/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/7tanmay7/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/7tanmay7/leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -274,6 +275,7 @@ contains solution all my leetcode questions
 | [0977-squares-of-a-sorted-array](https://github.com/7tanmay7/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1710-maximum-units-on-a-truck](https://github.com/7tanmay7/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1970-sorting-the-sentence](https://github.com/7tanmay7/leetcode/tree/master/1970-sorting-the-sentence) |
 ## Linked List
 |  |
@@ -562,6 +564,7 @@ contains solution all my leetcode questions
 | [0455-assign-cookies](https://github.com/7tanmay7/leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/7tanmay7/leetcode/tree/master/0860-lemonade-change) |
 | [1448-maximum-69-number](https://github.com/7tanmay7/leetcode/tree/master/1448-maximum-69-number) |
+| [1710-maximum-units-on-a-truck](https://github.com/7tanmay7/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1903-largest-odd-number-in-string](https://github.com/7tanmay7/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2032-largest-odd-number-in-string](https://github.com/7tanmay7/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2498-frog-jump-ii](https://github.com/7tanmay7/leetcode/tree/master/2498-frog-jump-ii) |
