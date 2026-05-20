@@ -1,36 +1,32 @@
-#include <vector>
-#include <algorithm>
-
+#include <bits/stdc++.h>
 using namespace std;
 
 class Solution {
 public:
-    // 1. Custom comparator using Striver's logic
-    // Sorts the intervals based on their END values in ascending order
+    // Must be static to be used inside std::sort without an object instance
     static bool comp(const vector<int>& val1, const vector<int>& val2) {
-        return val1[1] < val2[1];
+        return val1[1] < val2[1]; // Sort by end times ascending
     }
-
+    
     int eraseOverlapIntervals(vector<vector<int>>& intervals) {
         if (intervals.empty()) return 0;
-
-        // 2. Sort the entire array using the custom comparator
+        
         sort(intervals.begin(), intervals.end(), comp);
-
-        // 3. Keep track of non-overlapping intervals (cit)
-        int countNonOverlapping = 1;
-        int lastEndTime = intervals[0][1];
-
-        // 4. Iterate through the remaining intervals
-        for (int i = 1; i < intervals.size(); i++) {
-            // If the next interval starts after or exactly when the last one ends
-            if (intervals[i][0] >= lastEndTime) {
-                countNonOverlapping++;
-                lastEndTime = intervals[i][1]; // Move the pointer to the new end time
+        
+        int keep_cnt = 1; 
+        int last_end_time = intervals[0][1];
+        int n = intervals.size();
+        
+        
+        for (int i = 1; i < n; i++) {
+            // If the current interval starts after or when the last one ends, they don't overlap
+            if (intervals[i][0] >= last_end_time) {
+                keep_cnt++;
+                last_end_time = intervals[i][1]; 
             }
         }
-
-        // 5. Total intervals to remove = Total - Count of non-overlapping pairs
-        return intervals.size() - countNonOverlapping;
+        
+        // 3. Minimum removals = Total intervals - Max intervals we can keep
+        return n - keep_cnt;
     }
 };
