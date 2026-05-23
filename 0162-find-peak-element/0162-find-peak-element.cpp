@@ -1,21 +1,19 @@
 class Solution {
 public:
     int findPeakElement(vector<int>& nums) {
-        
-            int n = nums.size();
-        
-        // Traverse the array
-        for (int i = 0; i < n; i++) {
-            // Check left neighbor if exists
-            bool left = (i == 0) || (nums[i] >= nums[i - 1]);
-            // Check right neighbor if exists
-            bool right = (i == n - 1) || (nums[i] >= nums[i + 1]);
-            
-            // If both sides are valid, return index
-            if (left && right) return i;
+        int low = 0,  high = nums.size() - 1;
+        while(low < high)
+        {
+            int mid = low + (high - low) / 2;
+            if(nums[mid] < nums[mid + 1])
+            {
+                low = mid + 1;
+            }
+            else
+            {
+                high = mid;
+            }
         }
-
-        // In case no peak found (shouldn't happen)
-        return -1;
+        return low;
     }
 };
