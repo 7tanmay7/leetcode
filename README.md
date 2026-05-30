@@ -88,6 +88,7 @@ contains solution all my leetcode questions
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/7tanmay7/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/7tanmay7/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/7tanmay7/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/7tanmay7/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1582-design-browser-history](https://github.com/7tanmay7/leetcode/tree/master/1582-design-browser-history) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/7tanmay7/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/7tanmay7/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -380,6 +381,7 @@ contains solution all my leetcode questions
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/7tanmay7/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/7tanmay7/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/7tanmay7/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/7tanmay7/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/7tanmay7/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/7tanmay7/leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2498-frog-jump-ii](https://github.com/7tanmay7/leetcode/tree/master/2498-frog-jump-ii) |
