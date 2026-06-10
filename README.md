@@ -106,6 +106,7 @@ contains solution all my leetcode questions
 | [2432-number-of-zero-filled-subarrays](https://github.com/7tanmay7/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/7tanmay7/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2498-frog-jump-ii](https://github.com/7tanmay7/leetcode/tree/master/2498-frog-jump-ii) |
+| [2643-row-with-maximum-ones](https://github.com/7tanmay7/leetcode/tree/master/2643-row-with-maximum-ones) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/7tanmay7/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/7tanmay7/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/7tanmay7/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -541,6 +542,7 @@ contains solution all my leetcode questions
 | [1628-count-submatrices-with-all-ones](https://github.com/7tanmay7/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1901-find-a-peak-element-ii](https://github.com/7tanmay7/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/7tanmay7/leetcode/tree/master/2047-find-a-peak-element-ii) |
+| [2643-row-with-maximum-ones](https://github.com/7tanmay7/leetcode/tree/master/2643-row-with-maximum-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/7tanmay7/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/7tanmay7/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Design
