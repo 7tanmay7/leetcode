@@ -1,40 +1,26 @@
 class Solution {
 public:
-
-    void solve(int i, vector<int>& arr, int target, 
-               vector<int>& ds, vector<vector<int>>& ans) {
-
-        // ✅ Base Case: target achieved
-        if(target == 0) {
-            ans.push_back(ds); // store current combination
+    void findCombination(int ind, int target, vector<int>& arr, vector<vector<int>>& ans, vector<int>& ds) {
+        if (ind == arr.size()) {
+            if (target == 0) {
+                ans.push_back(ds);
+            }
             return;
         }
-
-        // ❌ Base Case: out of bounds
-        if(i == arr.size()) return;
-
-        // 🔥 PICK CASE
-        // Only pick if element is <= target
-        if(arr[i] <= target) {
-            ds.push_back(arr[i]); // include element
-
-            // Stay at same index (because reuse allowed)
-            solve(i, arr, target - arr[i], ds, ans);
-
-            ds.pop_back(); // backtrack (remove last element)
+        // pick up the element
+        if (arr[ind] <= target) {
+            ds.push_back(arr[ind]);
+            findCombination(ind, target - arr[ind], arr, ans, ds);
+            ds.pop_back();
         }
-
-        // ❌ NOT PICK CASE
-        // Move to next index
-        solve(i+1, arr, target, ds, ans);
+        
+        findCombination(ind + 1, target, arr, ans, ds);
     }
-
+public:
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
         vector<vector<int>> ans;
         vector<int> ds;
-
-        solve(0, candidates, target, ds, ans);
-
+        findCombination(0, target, candidates, ans, ds);
         return ans;
     }
 };
