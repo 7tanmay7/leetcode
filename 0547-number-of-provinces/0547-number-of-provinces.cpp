@@ -1,40 +1,36 @@
 class Solution {
-private:
-    void dfs(int node, vector<vector<int>> &adj, vector<int> &visited) {
-        visited[node] = 1;
-
-        for (int i = 0; i < (int)adj[node].size(); i++) {
-            int neigh = adj[node][i];
-            if (visited[neigh] == 0) {
-                dfs(neigh, adj, visited);
-            }
-        }
-    }
-
 public:
-    int findCircleNum(vector<vector<int>>& isConnected) {
-        int n = (int)isConnected.size();
-
-        vector<vector<int>> adj(n);
-
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                if (isConnected[i][j] == 1 && i != j) {
-                    adj[i].push_back(j);
-                }
-            }
-        }
-
-        vector<int> visited(n, 0);
-        int cnt = 0;
-
-        for (int i = 0; i < n; i++) {
-            if (visited[i] == 0) {
-                cnt++;
-                dfs(i, adj, visited);
-            }
-        }
-
-        return cnt;
+void dfs(int node, vector<int> adj[], vector<bool>& vis){
+    vis[node] = true;
+    for(auto v : adj[node]){
+        if(!vis[v])
+            dfs(v, adj, vis);
     }
+}
+
+int findCircleNum(vector<vector<int>>& isConnected) {
+    int ans = 0, n = isConnected.size();
+    vector<int> adj[n];
+    
+    // Convert isConnected matrix into adjacency list
+    for(int i=0; i<n; i++){
+        for(int j=0; j<n; j++){
+            if(isConnected[i][j] == 1){
+                adj[i].push_back(j);
+            }
+        }
+    }
+    
+    vector<bool> vis(n, false);
+    
+    // Perform DFS to find the number of provinces
+    for(int i=0; i<n; i++){
+        if(!vis[i]){
+            ans++;
+            dfs(i, adj, vis);
+        }
+    }
+
+    return ans;
+}
 };
