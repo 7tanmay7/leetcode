@@ -55,6 +55,7 @@ contains solution all my leetcode questions
 | [0204-count-primes](https://github.com/7tanmay7/leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/7tanmay7/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/7tanmay7/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/7tanmay7/leetcode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/7tanmay7/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/7tanmay7/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/7tanmay7/leetcode/tree/master/0268-missing-number) |
@@ -130,6 +131,7 @@ contains solution all my leetcode questions
 | [0160-intersection-of-two-linked-lists](https://github.com/7tanmay7/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/7tanmay7/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/7tanmay7/leetcode/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/7tanmay7/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/7tanmay7/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/7tanmay7/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/7tanmay7/leetcode/tree/master/0409-longest-palindrome) |
@@ -289,6 +291,7 @@ contains solution all my leetcode questions
 | [0148-sort-list](https://github.com/7tanmay7/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/7tanmay7/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/7tanmay7/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/7tanmay7/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/7tanmay7/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/7tanmay7/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/7tanmay7/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -701,6 +704,7 @@ contains solution all my leetcode questions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/7tanmay7/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/7tanmay7/leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/7tanmay7/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/7tanmay7/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Merge Sort
@@ -739,4 +743,8 @@ contains solution all my leetcode questions
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/7tanmay7/leetcode/tree/master/0204-count-primes) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/7tanmay7/leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
