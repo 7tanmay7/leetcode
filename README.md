@@ -86,6 +86,7 @@ contains solution all my leetcode questions
 | [0943-sum-of-subarray-minimums](https://github.com/7tanmay7/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/7tanmay7/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/7tanmay7/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/7tanmay7/leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/7tanmay7/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/7tanmay7/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/7tanmay7/leetcode/tree/master/1020-number-of-enclaves) |
@@ -275,6 +276,7 @@ contains solution all my leetcode questions
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/7tanmay7/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/7tanmay7/leetcode/tree/master/1020-number-of-enclaves) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/7tanmay7/leetcode/tree/master/1036-rotting-oranges) |
@@ -562,6 +564,7 @@ contains solution all my leetcode questions
 | [0498-diagonal-traverse](https://github.com/7tanmay7/leetcode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/7tanmay7/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/7tanmay7/leetcode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/7tanmay7/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/7tanmay7/leetcode/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/7tanmay7/leetcode/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/7tanmay7/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
