@@ -762,4 +762,8 @@ contains solution all my leetcode questions
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/7tanmay7/leetcode/tree/master/0455-assign-cookies) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/7tanmay7/leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
