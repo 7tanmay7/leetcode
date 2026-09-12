@@ -85,6 +85,7 @@ contains solution all my leetcode questions
 | [0904-fruit-into-baskets](https://github.com/7tanmay7/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/7tanmay7/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/7tanmay7/leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [0973-k-closest-points-to-origin](https://github.com/7tanmay7/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/7tanmay7/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/7tanmay7/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/7tanmay7/leetcode/tree/master/0994-rotting-oranges) |
@@ -166,6 +167,7 @@ contains solution all my leetcode questions
 | [0215-kth-largest-element-in-an-array](https://github.com/7tanmay7/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/7tanmay7/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/7tanmay7/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/7tanmay7/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Tree
 |  |
 | ------- |
@@ -304,6 +306,7 @@ contains solution all my leetcode questions
 | [0451-sort-characters-by-frequency](https://github.com/7tanmay7/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/7tanmay7/leetcode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/7tanmay7/leetcode/tree/master/0502-ipo) |
+| [0973-k-closest-points-to-origin](https://github.com/7tanmay7/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/7tanmay7/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -427,12 +430,14 @@ contains solution all my leetcode questions
 | [0502-ipo](https://github.com/7tanmay7/leetcode/tree/master/0502-ipo) |
 | [0743-network-delay-time](https://github.com/7tanmay7/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/7tanmay7/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0973-k-closest-points-to-origin](https://github.com/7tanmay7/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/7tanmay7/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/7tanmay7/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/7tanmay7/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/7tanmay7/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
 | ------- |
@@ -510,6 +515,7 @@ contains solution all my leetcode questions
 | [0523-continuous-subarray-sum](https://github.com/7tanmay7/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0679-24-game](https://github.com/7tanmay7/leetcode/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/7tanmay7/leetcode/tree/master/0867-new-21-game) |
+| [0973-k-closest-points-to-origin](https://github.com/7tanmay7/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1013-fibonacci-number](https://github.com/7tanmay7/leetcode/tree/master/1013-fibonacci-number) |
 | [1048-clumsy-factorial](https://github.com/7tanmay7/leetcode/tree/master/1048-clumsy-factorial) |
 | [1448-maximum-69-number](https://github.com/7tanmay7/leetcode/tree/master/1448-maximum-69-number) |
@@ -766,4 +772,12 @@ contains solution all my leetcode questions
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/7tanmay7/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/7tanmay7/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/7tanmay7/leetcode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
