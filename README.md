@@ -300,6 +300,7 @@ contains solution all my leetcode questions
 | [0215-kth-largest-element-in-an-array](https://github.com/7tanmay7/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/7tanmay7/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/7tanmay7/leetcode/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/7tanmay7/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/7tanmay7/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/7tanmay7/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/7tanmay7/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -425,6 +426,7 @@ contains solution all my leetcode questions
 | [0023-merge-k-sorted-lists](https://github.com/7tanmay7/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/7tanmay7/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/7tanmay7/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/7tanmay7/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/7tanmay7/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/7tanmay7/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/7tanmay7/leetcode/tree/master/0502-ipo) |
@@ -463,6 +465,7 @@ contains solution all my leetcode questions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/7tanmay7/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/7tanmay7/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/7tanmay7/leetcode/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/7tanmay7/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/7tanmay7/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/7tanmay7/leetcode/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/7tanmay7/leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -590,6 +593,7 @@ contains solution all my leetcode questions
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/7tanmay7/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/7tanmay7/leetcode/tree/master/0937-online-stock-span) |
 | [1582-design-browser-history](https://github.com/7tanmay7/leetcode/tree/master/1582-design-browser-history) |
 ## Monotonic Stack
@@ -606,6 +610,7 @@ contains solution all my leetcode questions
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/7tanmay7/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/7tanmay7/leetcode/tree/master/0937-online-stock-span) |
 | [1582-design-browser-history](https://github.com/7tanmay7/leetcode/tree/master/1582-design-browser-history) |
 ## Greedy
