@@ -94,6 +94,7 @@ contains solution all my leetcode questions
 | [1020-number-of-enclaves](https://github.com/7tanmay7/leetcode/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/7tanmay7/leetcode/tree/master/1036-rotting-oranges) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/7tanmay7/leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1046-last-stone-weight](https://github.com/7tanmay7/leetcode/tree/master/1046-last-stone-weight) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/7tanmay7/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/7tanmay7/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/7tanmay7/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -433,6 +434,7 @@ contains solution all my leetcode questions
 | [0743-network-delay-time](https://github.com/7tanmay7/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/7tanmay7/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/7tanmay7/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/7tanmay7/leetcode/tree/master/1046-last-stone-weight) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/7tanmay7/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Quickselect
 |  |
