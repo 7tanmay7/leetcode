@@ -89,6 +89,7 @@ contains solution all my leetcode questions
 | [0973-k-closest-points-to-origin](https://github.com/7tanmay7/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/7tanmay7/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/7tanmay7/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0978-longest-turbulent-subarray](https://github.com/7tanmay7/leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [0994-rotting-oranges](https://github.com/7tanmay7/leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/7tanmay7/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/7tanmay7/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -384,6 +385,7 @@ contains solution all my leetcode questions
 | [0787-cheapest-flights-within-k-stops](https://github.com/7tanmay7/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0867-new-21-game](https://github.com/7tanmay7/leetcode/tree/master/0867-new-21-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/7tanmay7/leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [0978-longest-turbulent-subarray](https://github.com/7tanmay7/leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [1013-fibonacci-number](https://github.com/7tanmay7/leetcode/tree/master/1013-fibonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/7tanmay7/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/7tanmay7/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -701,6 +703,7 @@ contains solution all my leetcode questions
 | [0713-subarray-product-less-than-k](https://github.com/7tanmay7/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0867-new-21-game](https://github.com/7tanmay7/leetcode/tree/master/0867-new-21-game) |
 | [0904-fruit-into-baskets](https://github.com/7tanmay7/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0978-longest-turbulent-subarray](https://github.com/7tanmay7/leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/7tanmay7/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/7tanmay7/leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/7tanmay7/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
