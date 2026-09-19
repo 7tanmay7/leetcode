@@ -43,6 +43,7 @@ contains solution all my leetcode questions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/7tanmay7/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/7tanmay7/leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/7tanmay7/leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/7tanmay7/leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/7tanmay7/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/7tanmay7/leetcode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/7tanmay7/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -633,6 +634,7 @@ contains solution all my leetcode questions
 | [0044-wildcard-matching](https://github.com/7tanmay7/leetcode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/7tanmay7/leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/7tanmay7/leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/7tanmay7/leetcode/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/7tanmay7/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/7tanmay7/leetcode/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/7tanmay7/leetcode/tree/master/0435-non-overlapping-intervals) |
