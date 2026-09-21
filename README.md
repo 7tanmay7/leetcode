@@ -150,6 +150,7 @@ contains solution all my leetcode questions
 | [0525-contiguous-array](https://github.com/7tanmay7/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/7tanmay7/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/7tanmay7/leetcode/tree/master/0621-task-scheduler) |
+| [0763-partition-labels](https://github.com/7tanmay7/leetcode/tree/master/0763-partition-labels) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/7tanmay7/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -481,6 +482,7 @@ contains solution all my leetcode questions
 | [0295-find-median-from-data-stream](https://github.com/7tanmay7/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/7tanmay7/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/7tanmay7/leetcode/tree/master/0455-assign-cookies) |
+| [0763-partition-labels](https://github.com/7tanmay7/leetcode/tree/master/0763-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/7tanmay7/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/7tanmay7/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/7tanmay7/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -505,6 +507,7 @@ contains solution all my leetcode questions
 | [0409-longest-palindrome](https://github.com/7tanmay7/leetcode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/7tanmay7/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/7tanmay7/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0763-partition-labels](https://github.com/7tanmay7/leetcode/tree/master/0763-partition-labels) |
 | [0812-rotate-string](https://github.com/7tanmay7/leetcode/tree/master/0812-rotate-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/7tanmay7/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/7tanmay7/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -641,6 +644,7 @@ contains solution all my leetcode questions
 | [0455-assign-cookies](https://github.com/7tanmay7/leetcode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/7tanmay7/leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/7tanmay7/leetcode/tree/master/0621-task-scheduler) |
+| [0763-partition-labels](https://github.com/7tanmay7/leetcode/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/7tanmay7/leetcode/tree/master/0860-lemonade-change) |
 | [1448-maximum-69-number](https://github.com/7tanmay7/leetcode/tree/master/1448-maximum-69-number) |
 | [1710-maximum-units-on-a-truck](https://github.com/7tanmay7/leetcode/tree/master/1710-maximum-units-on-a-truck) |
