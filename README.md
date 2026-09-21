@@ -111,6 +111,7 @@ contains solution all my leetcode questions
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/7tanmay7/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/7tanmay7/leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/7tanmay7/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/7tanmay7/leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1901-find-a-peak-element-ii](https://github.com/7tanmay7/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/7tanmay7/leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2176-parallel-courses-iii](https://github.com/7tanmay7/leetcode/tree/master/2176-parallel-courses-iii) |
@@ -648,6 +649,7 @@ contains solution all my leetcode questions
 | [0860-lemonade-change](https://github.com/7tanmay7/leetcode/tree/master/0860-lemonade-change) |
 | [1448-maximum-69-number](https://github.com/7tanmay7/leetcode/tree/master/1448-maximum-69-number) |
 | [1710-maximum-units-on-a-truck](https://github.com/7tanmay7/leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/7tanmay7/leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1903-largest-odd-number-in-string](https://github.com/7tanmay7/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2032-largest-odd-number-in-string](https://github.com/7tanmay7/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2498-frog-jump-ii](https://github.com/7tanmay7/leetcode/tree/master/2498-frog-jump-ii) |
