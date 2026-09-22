@@ -456,6 +456,7 @@ contains solution all my leetcode questions
 | [0787-cheapest-flights-within-k-stops](https://github.com/7tanmay7/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/7tanmay7/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/7tanmay7/leetcode/tree/master/1046-last-stone-weight) |
+| [1405-longest-happy-string](https://github.com/7tanmay7/leetcode/tree/master/1405-longest-happy-string) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/7tanmay7/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Quickselect
 |  |
@@ -519,6 +520,7 @@ contains solution all my leetcode questions
 | [0678-valid-parenthesis-string](https://github.com/7tanmay7/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/7tanmay7/leetcode/tree/master/0763-partition-labels) |
 | [0812-rotate-string](https://github.com/7tanmay7/leetcode/tree/master/0812-rotate-string) |
+| [1405-longest-happy-string](https://github.com/7tanmay7/leetcode/tree/master/1405-longest-happy-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/7tanmay7/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/7tanmay7/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/7tanmay7/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -661,6 +663,7 @@ contains solution all my leetcode questions
 | [0763-partition-labels](https://github.com/7tanmay7/leetcode/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/7tanmay7/leetcode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/7tanmay7/leetcode/tree/master/0860-lemonade-change) |
+| [1405-longest-happy-string](https://github.com/7tanmay7/leetcode/tree/master/1405-longest-happy-string) |
 | [1448-maximum-69-number](https://github.com/7tanmay7/leetcode/tree/master/1448-maximum-69-number) |
 | [1710-maximum-units-on-a-truck](https://github.com/7tanmay7/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/7tanmay7/leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
