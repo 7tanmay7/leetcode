@@ -399,6 +399,7 @@ contains solution all my leetcode questions
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/7tanmay7/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/7tanmay7/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/7tanmay7/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1871-jump-game-vii](https://github.com/7tanmay7/leetcode/tree/master/1871-jump-game-vii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/7tanmay7/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2176-parallel-courses-iii](https://github.com/7tanmay7/leetcode/tree/master/2176-parallel-courses-iii) |
 ## Binary Search Tree
@@ -519,6 +520,7 @@ contains solution all my leetcode questions
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/7tanmay7/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/7tanmay7/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/7tanmay7/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1871-jump-game-vii](https://github.com/7tanmay7/leetcode/tree/master/1871-jump-game-vii) |
 | [1903-largest-odd-number-in-string](https://github.com/7tanmay7/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/7tanmay7/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1970-sorting-the-sentence](https://github.com/7tanmay7/leetcode/tree/master/1970-sorting-the-sentence) |
@@ -571,6 +573,7 @@ contains solution all my leetcode questions
 | [0974-subarray-sums-divisible-by-k](https://github.com/7tanmay7/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/7tanmay7/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/7tanmay7/leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1871-jump-game-vii](https://github.com/7tanmay7/leetcode/tree/master/1871-jump-game-vii) |
 ## Union Find
 |  |
 | ------- |
@@ -723,6 +726,7 @@ contains solution all my leetcode questions
 | [1004-max-consecutive-ones-iii](https://github.com/7tanmay7/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/7tanmay7/leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/7tanmay7/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1871-jump-game-vii](https://github.com/7tanmay7/leetcode/tree/master/1871-jump-game-vii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/7tanmay7/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Monotonic Queue
 |  |
