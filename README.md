@@ -112,6 +112,7 @@ contains solution all my leetcode questions
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/7tanmay7/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/7tanmay7/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/7tanmay7/leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/7tanmay7/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/7tanmay7/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/7tanmay7/leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1901-find-a-peak-element-ii](https://github.com/7tanmay7/leetcode/tree/master/1901-find-a-peak-element-ii) |
@@ -551,6 +552,7 @@ contains solution all my leetcode questions
 | [1013-fibonacci-number](https://github.com/7tanmay7/leetcode/tree/master/1013-fibonacci-number) |
 | [1048-clumsy-factorial](https://github.com/7tanmay7/leetcode/tree/master/1048-clumsy-factorial) |
 | [1448-maximum-69-number](https://github.com/7tanmay7/leetcode/tree/master/1448-maximum-69-number) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/7tanmay7/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/7tanmay7/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2032-largest-odd-number-in-string](https://github.com/7tanmay7/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/7tanmay7/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -565,6 +567,7 @@ contains solution all my leetcode questions
 | [0268-missing-number](https://github.com/7tanmay7/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/7tanmay7/leetcode/tree/master/0342-power-of-four) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/7tanmay7/leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/7tanmay7/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -709,6 +712,7 @@ contains solution all my leetcode questions
 | [0131-palindrome-partitioning](https://github.com/7tanmay7/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/7tanmay7/leetcode/tree/master/0257-binary-tree-paths) |
 | [0679-24-game](https://github.com/7tanmay7/leetcode/tree/master/0679-24-game) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/7tanmay7/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -746,6 +750,7 @@ contains solution all my leetcode questions
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/7tanmay7/leetcode/tree/master/0204-count-primes) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/7tanmay7/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/7tanmay7/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Topological Sort
 |  |
@@ -832,4 +837,8 @@ contains solution all my leetcode questions
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/7tanmay7/leetcode/tree/master/0678-valid-parenthesis-string) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/7tanmay7/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
