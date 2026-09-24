@@ -1,19 +1,22 @@
 class Solution {
 public:
     vector<vector<int>> subsets(vector<int>& nums) {
-      int n = nums.size();
-      int totalSubsets = 1<<n;
-      vector<vector<int>>ans;
-      for(int i=0;i< totalSubsets; i++){
-        vector<int>current;
-        for(int j=0;j<n;j++){
-            if((i &(1<< j))!=0){
-current.push_back(nums[j]);
-                }
-            }
-            ans.push_back(current);
+             vector<vector<int>>res;
+        vector<int>subset;
+        dfs(nums,0, subset, res);
+        return res;
+    }
+    private:
+
+    void dfs(const vector<int>& nums, int i, vector<int>& subset, vector<vector<int>>&res){
+        if(i >=nums.size()){
+            res.push_back(subset);
+            return;
         }
-        
-        return ans;
+        subset.push_back(nums[i]);
+        dfs(nums,i+1, subset, res);
+
+        subset.pop_back();
+        dfs(nums,i+1, subset, res);
     }
 };
