@@ -398,6 +398,7 @@ contains solution all my leetcode questions
 | [0943-sum-of-subarray-minimums](https://github.com/7tanmay7/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0978-longest-turbulent-subarray](https://github.com/7tanmay7/leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [1013-fibonacci-number](https://github.com/7tanmay7/leetcode/tree/master/1013-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/7tanmay7/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/7tanmay7/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/7tanmay7/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/7tanmay7/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -521,6 +522,7 @@ contains solution all my leetcode questions
 | [0678-valid-parenthesis-string](https://github.com/7tanmay7/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/7tanmay7/leetcode/tree/master/0763-partition-labels) |
 | [0812-rotate-string](https://github.com/7tanmay7/leetcode/tree/master/0812-rotate-string) |
+| [1143-longest-common-subsequence](https://github.com/7tanmay7/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1405-longest-happy-string](https://github.com/7tanmay7/leetcode/tree/master/1405-longest-happy-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/7tanmay7/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/7tanmay7/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -841,4 +843,8 @@ contains solution all my leetcode questions
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/7tanmay7/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/7tanmay7/leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
