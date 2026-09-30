@@ -849,4 +849,8 @@ contains solution all my leetcode questions
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/7tanmay7/leetcode/tree/master/1143-longest-common-subsequence) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/7tanmay7/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
