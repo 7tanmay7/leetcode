@@ -1,38 +1,36 @@
-
 class Solution {
+private:
+    bool dfs(int node, const vector<vector<int>>& adj, vector<bool>& vis, vector<bool>& path) {
+        vis[node] = path[node] = true;
+
+        for (int next : adj[node]) {
+            if (!vis[next]) {
+                if (dfs(next, adj, vis, path)) return true;
+            } else if (path[next]) {
+                return true;
+            }
+        }
+        
+        path[node] = false;
+        return false;
+    }
+
 public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<vector<int>> adj(numCourses);   // adjacency list
-        vector<int> inDeg(numCourses, 0);      // in-degree array
-
-        // Build the graph and in-degree array
-        for (int i = 0; i < prerequisites.size(); i++) {
-            int v = prerequisites[i][0]; // course to take
-            int u = prerequisites[i][1]; // prerequisite
-            adj[u].push_back(v);
-            inDeg[v]++;
+        vector<vector<int>> adj(numCourses);
+        for (const auto& pre : prerequisites) {
+            adj[pre[1]].push_back(pre[0]);
         }
 
-        queue<int> q;
-        // Push all courses with no prerequisites
-        for (int i = 0; i < numCourses; i++) {
-            if (inDeg[i] == 0) q.push(i);
-        }
+        vector<bool> vis(numCourses, false);
+        vector<bool> path(numCourses, false);
 
-        int count = 0; // Number of courses we can finish
-
-        while (!q.empty()) {
-            int node = q.front();
-            q.pop();
-            count++;
-
-            for (int neighbor : adj[node]) {
-                inDeg[neighbor]--;
-                if (inDeg[neighbor] == 0) q.push(neighbor);
+        for (int i = 0; i < numCourses; ++i) {
+            if (!vis[i]) {
+                if (dfs(i, adj, vis, path)) return false;
             }
         }
 
-        // If we finished all courses, it's possible
-        return count == numCourses;
+        return true;
     }
 };
