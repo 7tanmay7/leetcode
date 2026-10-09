@@ -147,6 +147,7 @@ contains solution all my leetcode questions
 | [0169-majority-element](https://github.com/7tanmay7/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/7tanmay7/leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/7tanmay7/leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/7tanmay7/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/7tanmay7/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/7tanmay7/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/7tanmay7/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -320,6 +321,7 @@ contains solution all my leetcode questions
 | [0169-majority-element](https://github.com/7tanmay7/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/7tanmay7/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/7tanmay7/leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/7tanmay7/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/7tanmay7/leetcode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/7tanmay7/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/7tanmay7/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -522,6 +524,7 @@ contains solution all my leetcode questions
 | [0131-palindrome-partitioning](https://github.com/7tanmay7/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/7tanmay7/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/7tanmay7/leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/7tanmay7/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/7tanmay7/leetcode/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/7tanmay7/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/7tanmay7/leetcode/tree/master/0409-longest-palindrome) |
