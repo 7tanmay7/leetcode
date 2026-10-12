@@ -1,13 +1,18 @@
 class Solution {
 public:
     int removeElement(vector<int>& nums, int val) {
-        int k = 0; // k will track the position for non-val elements
-        for (int i = 0; i < nums.size(); i++) {
-            if (nums[i] != val) {
-                nums[k] = nums[i]; // Move non-val element to the front
-                k++;
+      int i=0;
+      int n = nums.size();
+      while(i<n){
+        if(nums[i]== val){
+            for(int j=i;j<n-1;j++){
+                nums[j]= nums[j+1];
             }
+            n--;
+        }else{
+            i++;
         }
-        return k; // k is the count of elements not equal to val
+      }
+      return n;  
     }
 };
