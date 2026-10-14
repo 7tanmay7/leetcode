@@ -837,6 +837,7 @@ contains solution all my leetcode questions
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/7tanmay7/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/7tanmay7/leetcode/tree/master/0229-majority-element-ii) |
 ## Quicksort
 |  |
