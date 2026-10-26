@@ -81,6 +81,7 @@ contains solution all my leetcode questions
 | [0621-task-scheduler](https://github.com/7tanmay7/leetcode/tree/master/0621-task-scheduler) |
 | [0679-24-game](https://github.com/7tanmay7/leetcode/tree/master/0679-24-game) |
 | [0704-binary-search](https://github.com/7tanmay7/leetcode/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/7tanmay7/leetcode/tree/master/0705-design-hashset) |
 | [0713-subarray-product-less-than-k](https://github.com/7tanmay7/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/7tanmay7/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/7tanmay7/leetcode/tree/master/0733-flood-fill) |
@@ -160,6 +161,7 @@ contains solution all my leetcode questions
 | [0525-contiguous-array](https://github.com/7tanmay7/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/7tanmay7/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/7tanmay7/leetcode/tree/master/0621-task-scheduler) |
+| [0705-design-hashset](https://github.com/7tanmay7/leetcode/tree/master/0705-design-hashset) |
 | [0763-partition-labels](https://github.com/7tanmay7/leetcode/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/7tanmay7/leetcode/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -357,6 +359,7 @@ contains solution all my leetcode questions
 | [0206-reverse-linked-list](https://github.com/7tanmay7/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/7tanmay7/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/7tanmay7/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0705-design-hashset](https://github.com/7tanmay7/leetcode/tree/master/0705-design-hashset) |
 | [0908-middle-of-the-linked-list](https://github.com/7tanmay7/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1582-design-browser-history](https://github.com/7tanmay7/leetcode/tree/master/1582-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/7tanmay7/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -645,6 +648,7 @@ contains solution all my leetcode questions
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/7tanmay7/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/7tanmay7/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0705-design-hashset](https://github.com/7tanmay7/leetcode/tree/master/0705-design-hashset) |
 | [0937-online-stock-span](https://github.com/7tanmay7/leetcode/tree/master/0937-online-stock-span) |
 | [1582-design-browser-history](https://github.com/7tanmay7/leetcode/tree/master/1582-design-browser-history) |
 ## Monotonic Stack
@@ -887,4 +891,8 @@ contains solution all my leetcode questions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/7tanmay7/leetcode/tree/master/0014-longest-common-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/7tanmay7/leetcode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
