@@ -132,6 +132,7 @@ contains solution all my leetcode questions
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/7tanmay7/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/7tanmay7/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/7tanmay7/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/7tanmay7/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -423,6 +424,7 @@ contains solution all my leetcode questions
 | [1871-jump-game-vii](https://github.com/7tanmay7/leetcode/tree/master/1871-jump-game-vii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/7tanmay7/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2176-parallel-courses-iii](https://github.com/7tanmay7/leetcode/tree/master/2176-parallel-courses-iii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/7tanmay7/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -589,6 +591,7 @@ contains solution all my leetcode questions
 | [0342-power-of-four](https://github.com/7tanmay7/leetcode/tree/master/0342-power-of-four) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/7tanmay7/leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/7tanmay7/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/7tanmay7/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -646,6 +649,7 @@ contains solution all my leetcode questions
 | [2643-row-with-maximum-ones](https://github.com/7tanmay7/leetcode/tree/master/2643-row-with-maximum-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/7tanmay7/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/7tanmay7/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/7tanmay7/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Design
 |  |
 | ------- |
