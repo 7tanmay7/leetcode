@@ -132,6 +132,7 @@ contains solution all my leetcode questions
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/7tanmay7/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/7tanmay7/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/7tanmay7/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/7tanmay7/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/7tanmay7/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
@@ -190,6 +191,7 @@ contains solution all my leetcode questions
 | [0240-search-a-2d-matrix-ii](https://github.com/7tanmay7/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/7tanmay7/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/7tanmay7/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/7tanmay7/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Tree
 |  |
 | ------- |
@@ -219,6 +221,7 @@ contains solution all my leetcode questions
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/7tanmay7/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -286,6 +289,7 @@ contains solution all my leetcode questions
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/7tanmay7/leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/7tanmay7/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -553,6 +557,7 @@ contains solution all my leetcode questions
 | [1904-second-largest-digit-in-a-string](https://github.com/7tanmay7/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1970-sorting-the-sentence](https://github.com/7tanmay7/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2032-largest-odd-number-in-string](https://github.com/7tanmay7/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/7tanmay7/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Math
 |  |
 | ------- |
@@ -591,6 +596,7 @@ contains solution all my leetcode questions
 | [0342-power-of-four](https://github.com/7tanmay7/leetcode/tree/master/0342-power-of-four) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/7tanmay7/leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/7tanmay7/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/7tanmay7/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/7tanmay7/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Prefix Sum
 |  |
@@ -904,4 +910,12 @@ contains solution all my leetcode questions
 | ------- |
 | [0705-design-hashset](https://github.com/7tanmay7/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/7tanmay7/leetcode/tree/master/0706-design-hashmap) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/7tanmay7/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/7tanmay7/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
