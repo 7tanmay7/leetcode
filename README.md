@@ -135,6 +135,7 @@ contains solution all my leetcode questions
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/7tanmay7/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/7tanmay7/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/7tanmay7/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3886-sum-of-sortable-integers](https://github.com/7tanmay7/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -351,6 +352,7 @@ contains solution all my leetcode questions
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/7tanmay7/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1710-maximum-units-on-a-truck](https://github.com/7tanmay7/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1970-sorting-the-sentence](https://github.com/7tanmay7/leetcode/tree/master/1970-sorting-the-sentence) |
+| [3886-sum-of-sortable-integers](https://github.com/7tanmay7/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Linked List
 |  |
 | ------- |
@@ -588,6 +590,7 @@ contains solution all my leetcode questions
 | [2032-largest-odd-number-in-string](https://github.com/7tanmay7/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/7tanmay7/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/7tanmay7/leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3886-sum-of-sortable-integers](https://github.com/7tanmay7/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -791,6 +794,7 @@ contains solution all my leetcode questions
 | [0204-count-primes](https://github.com/7tanmay7/leetcode/tree/master/0204-count-primes) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/7tanmay7/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/7tanmay7/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/7tanmay7/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Topological Sort
 |  |
 | ------- |
