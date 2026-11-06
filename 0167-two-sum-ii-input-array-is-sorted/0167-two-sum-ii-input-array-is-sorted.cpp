@@ -1,23 +1,17 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& numbers, int target) {
-      int n = numbers.size();{
-        int i =0; int j = n-1;
-        while(i<j){
-            int currentSum = numbers[i]+numbers[j];
-            if (currentSum== target) {
-                return {i+1, j+1};
+        int left = 0, right = numbers.size() - 1;
+        while (left < right) {
+            int sum = numbers[left] + numbers[right];
+            if (sum == target) {
+                return {left + 1, right + 1}; // Return 1-indexed positions
+            } else if (sum < target) {
+                left++;
+            } else {
+                right--;
             }
-            else if (currentSum< target){
-                i++;
-            }
-         else {
-            j--;
-         }
         }
-        return {};
-      }
+        return {}; // Default return if no solution is found
     }
-    };
-
-        
+};
