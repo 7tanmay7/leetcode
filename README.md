@@ -72,6 +72,7 @@ contains solution all my leetcode questions
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/7tanmay7/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/7tanmay7/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/7tanmay7/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/7tanmay7/leetcode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/7tanmay7/leetcode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/7tanmay7/leetcode/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/7tanmay7/leetcode/tree/master/0502-ipo) |
@@ -195,6 +196,7 @@ contains solution all my leetcode questions
 | [0215-kth-largest-element-in-an-array](https://github.com/7tanmay7/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/7tanmay7/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/7tanmay7/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/7tanmay7/leetcode/tree/master/0493-reverse-pairs) |
 | [0973-k-closest-points-to-origin](https://github.com/7tanmay7/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/7tanmay7/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Tree
@@ -454,6 +456,7 @@ contains solution all my leetcode questions
 | [0240-search-a-2d-matrix-ii](https://github.com/7tanmay7/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/7tanmay7/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/7tanmay7/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0493-reverse-pairs](https://github.com/7tanmay7/leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/7tanmay7/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0700-search-in-a-binary-search-tree](https://github.com/7tanmay7/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/7tanmay7/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -830,6 +833,7 @@ contains solution all my leetcode questions
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/7tanmay7/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/7tanmay7/leetcode/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/7tanmay7/leetcode/tree/master/0493-reverse-pairs) |
 ## Biconnected Component
 |  |
 | ------- |
@@ -928,9 +932,19 @@ contains solution all my leetcode questions
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/7tanmay7/leetcode/tree/master/0493-reverse-pairs) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/7tanmay7/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/7tanmay7/leetcode/tree/master/0493-reverse-pairs) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/7tanmay7/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/7tanmay7/leetcode/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/7tanmay7/leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
