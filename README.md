@@ -895,6 +895,7 @@ contains solution all my leetcode questions
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/7tanmay7/leetcode/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/7tanmay7/leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Combinatorics
 |  |
